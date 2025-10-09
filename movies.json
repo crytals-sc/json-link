@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "title": "Nhiệm Vụ Bất Khả Thi - Nghiệp Báo Cuối Cùng",
+    "year": 2025,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBsWBQUCZVnEx11IFulfQC-NtVo6Yv19dHA575ySV84SofSU9M",
+    "desc": "Câu chuyện về một chàng trai trẻ với ước mơ trở thành thợ săn rồng, nhưng định mệnh lại đưa đẩy anh đến tình bạn bất ngờ với một chú rồng.",
+    "driveId": "1N-lJ3dTqUEjbTeOp1vb2cdDpGPDyqDlQ",
+    "sub": "",
+    "duration": "2:52:55",
+    "genre": [
+      "Sci-Fi",
+      "Romantic",
+      "Action"
+    ],
+    "rating": 4.9,
+    "category": "phim-le"
+  },
+  {
+    "id": "2",
+    "title": "Demo Conan",
+    "year": 2024,
+    "poster": "https://drive.google.com/uc?export=view&id=18_V5kwQ-bTKeDDmGnK04c3RsX-I-m1V1",
+    "desc": "Demo phim bộ Conan với danh sách tập để kiểm thử player.",
+    "sub": "",
+    "duration": "Tập ~20phút",
+    "genre": [
+      "Drama"
+    ],
+    "rating": 4.5,
+    "category": "phim-bo",
+    "episodes": [
+      {
+        "name": "Tập 1",
+        "driveId": "1fHoXhmIVcScFs6nVn0JfjpgyZvllpt1W"
+      },
+      {
+        "name": "Tập 2",
+        "driveId": "1e0WbSuaCk-5oKlMEMyhKCQ5RfjXpA3WN"
+      }
+    ],
+    "driveId": "",
+    "updatedAt": "2025-10-09T11:00:07.990Z"
+  }
+]
