@@ -20,7 +20,7 @@
     "id": "2",
     "title": "Demo Conan",
     "year": 2024,
-    "poster": "https://drive.google.com/file/d/18_V5kwQ-bTKeDDmGnK04c3RsX-I-m1V1preview",
+    "poster": "https://drive.google.com/uc?export=view&id=18_V5kwQ-bTKeDDmGnK04c3RsX-I-m1V1",
     "desc": "Demo phim bộ Conan với danh sách tập để kiểm thử player.",
     "sub": "",
     "duration": "Tập ~20phút",
@@ -40,6 +40,6 @@
       }
     ],
     "driveId": "",
-    "updatedAt": "2025-10-09T10:49:58.136Z"
+    "updatedAt": "2025-10-09T11:00:07.990Z"
   }
 ]
