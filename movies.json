@@ -3,25 +3,26 @@
     "id": "1",
     "title": "Nhiệm Vụ Bất Khả Thi - Nghiệp Báo Cuối Cùng",
     "year": 2025,
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBsWBQUCZVnEx11IFulfQC-NtVo6Yv19dHA575ySV84SofSU9M",
-    "desc": "Câu chuyện về một chàng trai trẻ với ước mơ trở thành thợ săn rồng, nhưng định mệnh lại đưa đẩy anh đến tình bạn bất ngờ với một chú rồng.",
+    "poster": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/m/i/mi8_poster_470x700_1.jpg",
+    "desc": "Cuộc đời là tất thảy những lựa chọn. Tom Cruise thủ vai Ethan Hunt trở lại trong Nhiệm Vụ: Bất Khả Thi – Nghiệp Báo Cuối Cùng.",
     "driveId": "1N-lJ3dTqUEjbTeOp1vb2cdDpGPDyqDlQ",
     "sub": "",
-    "duration": "2:52:55",
+    "duration": "168 phút 58 giây",
     "genre": [
-      "Sci-Fi",
-      "Romantic",
-      "Action"
+      "Hành Động",
+      "Tâm Lý",
+      "Giật Gân"
     ],
     "rating": 4.9,
-    "category": "phim-le"
+    "category": "phim-le",
+    "updatedAt": "2025-10-09T15:56:38.292Z"
   },
   {
     "id": "2",
-    "title": "Demo Conan",
+    "title": "Thám tử lừng danh Conan-Series",
     "year": 2024,
     "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/conan-poster-single-mov.jpg",
-    "desc": "Demo phim bộ Conan với danh sách tập để kiểm thử player.",
+    "desc": "Bộ phim chuyển thể từ truyện tranh trinh thám nổi tiếng cùng tên, câu chuyện kể về cuộc hành săn đuổi sự thật của chàng thám tử nhí bị teo nhỏ. Sự thật luôn chỉ có một!",
     "sub": "",
     "duration": "Tập ~20phút",
     "genre": [
@@ -42,7 +43,7 @@
       }
     ],
     "driveId": "",
-    "updatedAt": "2025-10-09T15:50:13.354Z"
+    "updatedAt": "2025-10-09T15:58:29.822Z"
   },
   {
     "id": "d68fc39b-7041-4c97-9327-277d71f1ec76",
