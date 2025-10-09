@@ -8,7 +8,11 @@
     "driveId": "1N-lJ3dTqUEjbTeOp1vb2cdDpGPDyqDlQ",
     "sub": "",
     "duration": "2:52:55",
-    "genre": ["Sci-Fi", "Romantic", "Action"],
+    "genre": [
+      "Sci-Fi",
+      "Romantic",
+      "Action"
+    ],
     "rating": 4.9,
     "category": "phim-le"
   },
@@ -20,14 +24,37 @@
     "desc": "Demo phim bộ với danh sách tập để kiểm thử player.",
     "sub": "",
     "duration": "Tập ~45 phút",
-    "genre": ["Drama"],
+    "genre": [
+      "Drama"
+    ],
     "rating": 4.2,
     "category": "phim-bo",
     "episodes": [
-      { "name": "Tập 1", "driveId": "1DEFghijKLmNOPqrSTuvWxyz123" },
-      { "name": "Tập 2", "driveId": "1ABCDEFGhijKLmNOPqrSTuvWx45" }
+      {
+        "name": "Tập 1",
+        "driveId": "1DEFghijKLmNOPqrSTuvWxyz123"
+      },
+      {
+        "name": "Tập 2",
+        "driveId": "1ABCDEFGhijKLmNOPqrSTuvWx45"
+      }
     ]
+  },
+  {
+    "id": "c34b2568-cfbf-4caf-a046-e1fe0c1d97ae",
+    "title": "abc",
+    "year": 1999,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBsWBQUCZVnEx11IFulfQC-NtVo6Yv19dHA575ySV84SofSU9M",
+    "driveId": "1N-lJ3dTqUEjbTeOp1vb2cdDpGPDyqDlQ",
+    "duration": "192 phút",
+    "rating": 4.9,
+    "category": "tv",
+    "desc": "",
+    "genre": [
+      "Action",
+      "Comedy"
+    ],
+    "createdAt": "2025-10-09T08:54:50.316Z",
+    "updatedAt": "2025-10-09T08:54:50.316Z"
   }
 ]
-
-
