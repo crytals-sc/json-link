@@ -1,5 +1,5 @@
 // assets/js/movie-editor.js
-// Full editor: load raw, CRUD (episodes supported), edit-on-click, download, commit via GitHub API
+// Full editor: load from GitHub, CRUD (episodes supported), edit-on-click, download, commit via GitHub API
 // Hỗ trợ nhiều categories cho một phim
 (() => {
   const RAW_URL = 'https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/main/movies.json';
@@ -136,7 +136,7 @@
     
     wrap.innerHTML = '';
     if(!movies.length){ 
-      wrap.innerHTML = '<div class="muted">Danh sách rỗng</div>'; 
+      wrap.innerHTML = '<div class="muted" style="text-align:center;padding:40px">Danh sách rỗng. Hãy thêm phim mới!</div>'; 
       return; 
     }
     
@@ -188,6 +188,11 @@
     if(!wrap) return;
     
     wrap.innerHTML = '';
+    if (list.length === 0) {
+      wrap.innerHTML = '<div class="muted" style="text-align:center;padding:12px">Chưa có tập nào</div>';
+      return;
+    }
+    
     (list || []).forEach((ep, i) => {
       const div = document.createElement('div'); 
       div.className='ep-row';
@@ -281,25 +286,25 @@
     
     // Validation
     if(!data.title) { 
-      toast('Cần nhập tên phim', 'error'); 
+      toast('❌ Cần nhập tên phim', 'error'); 
       dom.title.focus();
       return; 
     }
     
     if(!data.driveId && !data.episodes) { 
-      toast('Cần driveId hoặc danh sách tập phim', 'error'); 
+      toast('❌ Cần driveId hoặc danh sách tập phim', 'error'); 
       return; 
     }
     
     if(!data.category || data.category.length === 0) {
-      toast('Vui lòng chọn ít nhất 1 category', 'error');
+      toast('❌ Vui lòng chọn ít nhất 1 category', 'error');
       return;
     }
     
     if(editingId){
       const idx = movies.findIndex(x=>x.id===editingId); 
       if(idx===-1){ 
-        toast('Item không tồn tại', 'error'); 
+        toast('❌ Item không tồn tại', 'error'); 
         return; 
       }
       movies[idx] = { 
@@ -333,271 +338,4 @@
   
   function removeAt(idx){
     const m = movies[idx]; 
-    if(!m) return;
-    if(!confirm(`Xác nhận xóa phim?\n\n#${m.id} — ${m.title}`)) return;
-    movies.splice(idx,1); 
-    saveLocal(); 
-    render(); 
-    toast('🗑️ Đã xóa','success');
-  }
-  
-  function moveUp(idx){ 
-    if(idx<=0) return; 
-    [movies[idx-1],movies[idx]]=[movies[idx],movies[idx-1]]; 
-    saveLocal(); 
-    render(); 
-  }
-  
-  function moveDown(idx){ 
-    if(idx>=movies.length-1) return; 
-    [movies[idx+1],movies[idx]]=[movies[idx],movies[idx+1]]; 
-    saveLocal(); 
-    render(); 
-  }
-
-  // load
-  async function loadFromRaw(){ 
-    dom.status && (dom.status.textContent='🔄 Đang load từ GitHub...'); 
-    const r=await fetch(RAW_URL,{cache:'no-cache'}); 
-    if(!r.ok) throw new Error('Raw fetch failed:'+r.status); 
-    const j=await r.json(); 
-    return Array.isArray(j)?j:[]; 
-  }
-  
-  async function loadLocalFallback(){ 
-    try{ 
-      const r=await fetch('../../data/movies.json'); 
-      if(!r.ok) return []; 
-      const j=await r.json(); 
-      return Array.isArray(j)?j:[]; 
-    }catch(e){return []} 
-  }
-
-  async function loadInitial(){
-    setBusy(dom.addBtn,true); 
-    loadLocal();
-    
-    if(movies && movies.length){ 
-      render(); 
-      dom.status && (dom.status.textContent=`✅ Loaded ${movies.length} phim từ local`); 
-      setBusy(dom.addBtn,false); 
-      return; 
-    }
-    
-    try{
-      const list = await loadFromRaw(); 
-      movies = list.slice(); 
-      saveLocal(); 
-      render(); 
-      dom.status && (dom.status.textContent=`✅ Đã tải ${movies.length} phim từ GitHub`);
-    }catch(e){
-      console.warn('raw failed',e);
-      const fallback = await loadLocalFallback(); 
-      movies = fallback.slice(); 
-      saveLocal(); 
-      render(); 
-      dom.status && (dom.status.textContent='⚠️ Dùng fallback local');
-    } finally { 
-      loadConf(); 
-      setBusy(dom.addBtn,false); 
-    }
-  }
-
-  // GitHub helpers
-  async function ghGet(token, repo, path, branch='main'){
-    const url = `https://api.github.com/repos/${repo}/contents/${path}?ref=${encodeURIComponent(branch)}`;
-    const res = await fetch(url, { 
-      headers: { 
-        Authorization: `token ${token}`, 
-        Accept: 'application/vnd.github.v3+json' 
-      } 
-    });
-    if(res.status===404) return null;
-    if(!res.ok){ 
-      const t=await res.text(); 
-      throw new Error('GET failed '+res.status+': '+t); 
-    }
-    return await res.json();
-  }
-  
-  async function ghPut(token, repo, path, contentStr, branch='main', sha){
-    const url = `https://api.github.com/repos/${repo}/contents/${path}`;
-    const body = { 
-      message:`Update ${path} via Movie Editor`, 
-      content: encodeContent(contentStr), 
-      branch 
-    }; 
-    if(sha) body.sha=sha;
-    
-    const res = await fetch(url, { 
-      method:'PUT', 
-      headers:{ 
-        Authorization:`token ${token}`, 
-        Accept:'application/vnd.github.v3+json', 
-        'Content-Type':'application/json' 
-      }, 
-      body: JSON.stringify(body) 
-    });
-    
-    const j = await res.json();
-    if(!res.ok) throw new Error((j && j.message) ? j.message : 'PUT failed');
-    return j;
-  }
-
-  // commit
-  async function commitToGithub(){
-    const token = dom.tokenInput.value.trim(); 
-    const repo = dom.repoInput.value.trim(); 
-    const branch = dom.branchInput.value.trim()||'main';
-    
-    if(!token || !repo){ 
-      toast('❌ Nhập token và repo', 'error'); 
-      return; 
-    } 
-    
-    if(!movies.length){ 
-      toast('❌ Danh sách rỗng', 'error'); 
-      return; 
-    }
-    
-    setBusy(dom.commitBtn,true); 
-    dom.status && (dom.status.textContent='🔍 Đang kiểm tra file trên GitHub...');
-    
-    try{
-      let file = null;
-      for(const p of DEFAULT_PATHS){
-        try{ 
-          file = await ghGet(token, repo, p, branch); 
-          if(file){ 
-            file.path=p; 
-            break; 
-          } 
-        }catch(e){}
-      }
-      
-      const path = file && file.path ? file.path : 'movies.json';
-      const contentStr = JSON.stringify(movies, null, 2);
-      
-      dom.status && (dom.status.textContent='📤 Đang commit...');
-      const res = await ghPut(token, repo, path, contentStr, branch, file && file.sha ? file.sha : undefined);
-      
-      dom.status && (dom.status.textContent = `✅ Commit thành công! (${res && res.commit ? res.commit.sha.substring(0,7) || '' : ''})`);
-      toast('✅ Commit thành công','success'); 
-      saveConf();
-    }catch(err){ 
-      console.error('commit err',err); 
-      dom.status && (dom.status.textContent='❌ Lỗi: '+(err.message||err)); 
-      toast('❌ Lỗi khi commit: '+(err.message||err),'error'); 
-    }
-    finally{ 
-      setBusy(dom.commitBtn,false); 
-    }
-  }
-
-  // events
-  function bind(){
-    if(dom.addBtn) {
-      dom.addBtn.addEventListener('click', addOrSave);
-    }
-    
-    if(dom.downloadBtn) {
-      dom.downloadBtn.addEventListener('click', ()=>{ 
-        if(!movies.length){
-          toast('❌ Danh sách rỗng','error'); 
-          return;
-        } 
-        const blob=new Blob([JSON.stringify(movies,null,2)],{type:'application/json'}); 
-        const url=URL.createObjectURL(blob); 
-        const a=document.createElement('a'); 
-        a.href=url; 
-        a.download='movies.json'; 
-        document.body.appendChild(a); 
-        a.click(); 
-        a.remove(); 
-        URL.revokeObjectURL(url); 
-        toast('💾 Đã tải file','success'); 
-      });
-    }
-    
-    if(dom.listWrap) {
-      dom.listWrap.addEventListener('click', (e)=>{ 
-        const btn = e.target.closest('button'); 
-        if(!btn) return; 
-        const idx = Number(btn.dataset.idx); 
-        const action = btn.dataset.action; 
-        if(action==='edit') return startEdit(idx); 
-        if(action==='remove') return removeAt(idx); 
-        if(action==='up') return moveUp(idx); 
-        if(action==='down') return moveDown(idx); 
-      });
-      
-      dom.listWrap.addEventListener('dblclick', (e)=>{ 
-        const r = e.target.closest('.row'); 
-        if(!r) return; 
-        const id = r.dataset.id; 
-        const i = movies.findIndex(x=>x.id===id); 
-        if(i>=0) startEdit(i); 
-      });
-    }
-    
-    if(dom.addEpisode) {
-      dom.addEpisode.addEventListener('click', ()=>{ 
-        const eps = readEpisodesFromEditor(); 
-        eps.push({name:'Tập '+(eps.length+1), driveId:''}); 
-        renderEpisodesEditor(eps); 
-      });
-    }
-    
-    if(dom.clearEpisodes) {
-      dom.clearEpisodes.addEventListener('click', ()=>{ 
-        if(confirm('Xóa tất cả tập?')) renderEpisodesEditor([]); 
-      });
-    }
-    
-    if(dom.episodesEditor) {
-      dom.episodesEditor.addEventListener('click', (e)=>{ 
-        const btn = e.target.closest('button[data-ep-action]'); 
-        if(!btn) return; 
-        const idx = Number(btn.dataset.epIndex); 
-        const eps = readEpisodesFromEditor(); 
-        eps.splice(idx,1); 
-        renderEpisodesEditor(eps); 
-      });
-    }
-    
-    if(dom.commitBtn) {
-      dom.commitBtn.addEventListener('click', commitToGithub);
-    }
-    
-    if(dom.title) {
-      dom.title.addEventListener('keydown', (e)=>{ 
-        if(e.key==='Enter') addOrSave(); 
-      });
-    }
-  }
-
-  // init
-  (function init(){ 
-    loadLocal(); 
-    loadConf(); 
-    renderCategoryCheckboxes(); // Render checkboxes
-    bind(); 
-    loadInitial(); 
-    
-    // API cho console
-    window.__movieEditor={
-      get:()=>movies,
-      set:(m)=>{
-        movies=Array.isArray(m)?m:[];
-        saveLocal();
-        render();
-      },
-      clear:()=>{
-        movies=[];
-        saveLocal();
-        render();
-      }
-    }
-  })();
-
-})();
+    if(!
