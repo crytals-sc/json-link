@@ -5,7 +5,7 @@
   const RAW_URL = 'https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/lib/movies.json';
   const STORAGE_KEY = 'movie-editor.v3';
   const GITHUB_CONF_KEY = 'movie-editor.v3.conf';
-  const DEFAULT_PATHS = ['movies.json', 'data/movies.json'];
+  const DEFAULT_PATHS = ['https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/lib/movies.json', 'https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/lib/movies.json'];
 
   const $ = id => document.getElementById(id);
   const toast = (msg, type='info') => {
