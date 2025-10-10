@@ -51,7 +51,13 @@
           <div style="font-weight:600">#${escape(m.id)} — ${escape(m.title||'(No title)')}</div>
           <div class="muted" style="font-size:12px">${m.year||''} ${m.duration? '• '+escape(m.duration):''} ${m.genre && m.genre.length? '• '+escape(m.genre.join(', ')) : ''}</div>
           <div style="margin-top:6px;font-size:13px">${escape(m.desc||'')}</div>
-          ${m.category? `<div class="muted" style="margin-top:6px">Category: ${escape(m.category)}</div>` : ''}
+          ${m.category ? `<div class="muted" style="margin-top:6px">Category: ${
+ 		 Array.isArray(m.category)
+  		  ? escape(m.category.join(', '))
+    		: escape(m.category)
+		}</div>` : ''}
+
+
           ${m.episodes ? `<div class="muted" style="margin-top:6px">Tập: ${m.episodes.length}</div>` : ''}
         </div>
         <div style="display:flex;flex-direction:column;gap:8px;align-items:flex-end">
@@ -107,7 +113,10 @@
     const driveId = dom.driveId.value.trim();
     const duration = dom.duration.value.trim();
     const rating = dom.rating.value ? Number(dom.rating.value) : undefined;
-    const category = dom.category.value.trim();
+    const category = (dom.category.value||'')
+  	.split(',')
+  	.map(s => s.trim())
+  	.filter(Boolean);
     const desc = dom.desc.value.trim();
     const genre = (dom.genre.value||'').split(',').map(s=>s.trim()).filter(Boolean);
     const episodes = readEpisodesFromEditor();
@@ -120,7 +129,7 @@
     dom.driveId.value = m.driveId||'';
     dom.duration.value = m.duration||'';
     dom.rating.value = m.rating||'';
-    dom.category.value = m.category||'';
+    dom.category.value = Array.isArray(m.category) ? m.category.join(', ') : (m.category||'');
     dom.desc.value = m.desc||'';
     dom.genre.value = (m.genre||[]).join(', ');
     renderEpisodesEditor(m.episodes||[]);
