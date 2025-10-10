@@ -31,7 +31,7 @@
       "Action"
     ],
     "rating": 4.5,
-    "category": "Phim Bộ, Hoạt Hình",
+    "category": "phim-bo, hoat-hinh",
     "episodes": [
       {
         "name": "Tập 1",
@@ -43,7 +43,7 @@
       }
     ],
     "driveId": "",
-    "updatedAt": "2025-10-10T03:26:45.493Z"
+    "updatedAt": "2025-10-10T03:28:54.860Z"
   },
   {
     "id": "d68fc39b-7041-4c97-9327-277d71f1ec76",
@@ -53,7 +53,7 @@
     "driveId": "",
     "duration": "~80 phút",
     "rating": 9.3,
-    "category": "Phim Bộ",
+    "category": "phim-bo",
     "desc": "Ngự Trù của Bạo Chúa lấy bối cảnh đối lập giữa quá khứ và hiện tại, phim theo chân đầu bếp Yeon Ji Yeong, một tài năng ẩm thực được đào tạo theo phong cách Pháp, đang ở đỉnh cao sự nghiệp. Đột nhiên, cô bị đưa ngược thời gian đến cung điện hoàng gia và phải nấu ăn cho vua Yi Heon - một bạo chúa có tính khí thất thường và khẩu vị tinh tế.\nYeon Ji Yeong, một người phụ nữ hiện đại, phải vật lộn trong thế giới chính trị khắc nghiệt của triều đình, nơi nấu ăn trở thành cuộc chiến sinh tồn và tình yêu đến một cách bất ngờ. Nhiệm vụ của cô không chỉ là tồn tại trong bếp hoàng gia, mà còn là chinh phục vị vua với những yêu cầu khắt khe và, có thể, thay đổi số phận của bản thân.\n\n \n\nVua Yi Heon, với tư duy sắc bén và lời nói sắc sảo, đem lại nỗi sợ hãi và hiểu nhầm cho những kẻ quanh mình. Sự hoàn hảo trong ẩm thực là điều ông không bao giờ chấp nhận sự tầm thường. Nhưng khi một đầu bếp mạnh mẽ như Yeon Ji Yeong xuất hiện, không chỉ khẩu vị, mà cả trái tim của vua cũng có thể sẽ được thay đổi.\n\n \n\nPhim được chuyển thể từ tiểu thuyết web nổi tiếng \"Surviving as Yeonsan-gun's Chef\" của tác giả Park Kook Jae.",
     "genre": [
       "Hàn Quốc",
@@ -111,7 +111,7 @@
       }
     ],
     "createdAt": "2025-10-09T15:27:14.962Z",
-    "updatedAt": "2025-10-10T03:27:18.230Z"
+    "updatedAt": "2025-10-10T03:28:40.236Z"
   },
   {
     "id": "3862e04f-081a-4511-bd94-6ae43fd5bd9a",
