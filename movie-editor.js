@@ -1,8 +1,8 @@
-@@ -0,0 +1,232 @@
+
 // assets/js/movie-editor.js
 // Full editor: load raw, CRUD (episodes supported), edit-on-click, download, commit via GitHub API
 (() => {
-  const RAW_URL = 'https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/main/movies.json';
+  const RAW_URL = 'https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/lib/movies.json';
   const STORAGE_KEY = 'movie-editor.v3';
   const GITHUB_CONF_KEY = 'movie-editor.v3.conf';
   const DEFAULT_PATHS = ['movies.json', 'data/movies.json'];
