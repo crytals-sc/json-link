@@ -164,7 +164,7 @@
 
   // load
   async function loadFromRaw(){ dom.status && (dom.status.textContent='Đang load từ raw...'); const r=await fetch(RAW_URL,{cache:'no-cache'}); if(!r.ok) throw new Error('Raw fetch failed:'+r.status); const j=await r.json(); return Array.isArray(j)?j:[]; }
-  async function loadLocalFallback(){ try{ const r=await fetch('../../data/movies.json'); if(!r.ok) return []; const j=await r.json(); return Array.isArray(j)?j:[]; }catch(e){return []} }
+  async function loadLocalFallback(){ try{ const r=await fetch('https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/lib/movies.json'); if(!r.ok) return []; const j=await r.json(); return Array.isArray(j)?j:[]; }catch(e){return []} }
 
   async function loadInitial(){
     setBusy(dom.addBtn,true); loadLocal();
