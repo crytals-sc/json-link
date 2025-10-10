@@ -31,7 +31,7 @@
       "Action"
     ],
     "rating": 4.5,
-    "category": "phim-hoat-hinh",
+    "category": "phim-bo, phim-hoat-hinh",
     "episodes": [
       {
         "name": "Tập 1",
@@ -43,7 +43,7 @@
       }
     ],
     "driveId": "",
-    "updatedAt": "2025-10-10T03:30:11.845Z"
+    "updatedAt": "2025-10-10T03:44:58.998Z"
   },
   {
     "id": "d68fc39b-7041-4c97-9327-277d71f1ec76",
@@ -206,7 +206,7 @@
     "duration": "45 phút",
     "rating": 8.4,
     "category": "phim-bo",
-    "desc": "Yến Ngộ Vĩnh An xoay quanh hành trình của Thẩm Thiều Quang (Vương Ảnh Lộ) và Lâm Yến (Lý Quân Nhuệ). Gia đình Thẩm vốn mở một quán cơm bình dị ở thời hiện đại, nhưng bất ngờ bị cuốn vào dòng thời gian và đặt chân đến thời Đại Đường rực rỡ. Từ đó, câu chuyện đan xen giữa ẩm thực, phong tục và những trải nghiệm văn hóa đặc sắc dần mở ra\n<br>\n\"Yến Ngộ Vĩnh An\" được chuyển thể từ tiểu thuyết Tiệm cơm nhỏ thành Trường An của tác giả Bánh Anh Đào.",
+    "desc": "Yến Ngộ Vĩnh An xoay quanh hành trình của Thẩm Thiều Quang (Vương Ảnh Lộ) và Lâm Yến (Lý Quân Nhuệ). Gia đình Thẩm vốn mở một quán cơm bình dị ở thời hiện đại, nhưng bất ngờ bị cuốn vào dòng thời gian và đặt chân đến thời Đại Đường rực rỡ. Từ đó, câu chuyện đan xen giữa ẩm thực, phong tục và những trải nghiệm văn hóa đặc sắc dần mở ra\n\n\n\"Yến Ngộ Vĩnh An\" được chuyển thể từ tiểu thuyết Tiệm cơm nhỏ thành Trường An của tác giả Bánh Anh Đào.",
     "genre": [
       "Cổ Trang",
       "Tình Cảm",
@@ -217,27 +217,27 @@
     "episodes": [
       {
         "name": "Tập 1",
-        "driveId": ""
+        "driveId": "1IfbxbrU2YJxcz5ZBkVsCBg0qcBNASH3n"
       },
       {
         "name": "Tập 2",
-        "driveId": ""
+        "driveId": "1WJYWangVfztZ9I7IwSm1y4uaG8dkWnE6"
       },
       {
         "name": "Tập 3",
-        "driveId": ""
+        "driveId": "1o39kv22IpJ97-o2qOOZE-nAZgxVGlmxU"
       },
       {
         "name": "Tập 4",
-        "driveId": ""
+        "driveId": "1qQL5N27hF2IUIuHb8MY5-hd2U5RePSNY"
       },
       {
         "name": "Tập 5",
-        "driveId": ""
+        "driveId": "1WEpB9PE7UVCluzGjCxmqHmvQKipTi3Xd"
       }
     ],
     "createdAt": "2025-10-10T03:22:00.459Z",
-    "updatedAt": "2025-10-10T03:24:05.675Z"
+    "updatedAt": "2025-10-10T06:34:28.531Z"
   },
   {
     "id": "cc5a13d5-8ab4-422c-82c8-fad4cb1a9eec",
@@ -260,19 +260,51 @@
     "updatedAt": "2025-10-10T03:26:21.346Z"
   },
   {
-    "id": "04517041-8c82-45d3-81c6-01a7cc9a62bb",
+    "id": "602ed7ff-3493-486b-8d3e-16b16c995eda",
+    "title": "Hanzawa- Tên Hung Thủ Số Nhọ - Detective Conan- The Culprit Hanzawa - Vietsub",
+    "poster": "https://vietbookstore.com/cdn/shop/files/5_b3da96f3-20a6-41c8-8f6c-5abdf63b9898.webp?v=1713823995&width=823",
+    "driveId": "1_yWLZOdKsQDAHLRtiT5dAq6o8QKCLD-_",
+    "duration": "",
+    "category": "",
+    "desc": "",
+    "genre": [],
+    "createdAt": "2025-10-10T06:41:05.943Z",
+    "updatedAt": "2025-10-10T06:42:12.322Z"
+  },
+  {
+    "id": "3eeb3dfa-0678-4486-a09b-2ebd1e1326c3",
     "title": "Thám Tử Lừng Danh Conan Movie 01- Quả Bom Chọc Trời - Detective Conan Movie 01- The Time Bombed Skyscraper - Vietsub",
     "year": 1997,
     "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/i8mXheCgoCQj3Ikz7pE50akJOR.jpg",
     "driveId": "1MXOw-m5csJ1jd2XauHa3YnZI0rnHmKem",
     "duration": "95 phút",
+    "rating": 10,
     "category": "phim-le",
     "desc": "Trong tập phim này, Shinichi nhận lời mời dự tiệc từ kiến trúc sư Teiji Moriya, người không hề biết cậu đã bị thu nhỏ thành Conan. Cùng lúc đó, một kẻ lạ mặt gọi điện thách thức cậu tìm ra những quả bom đang được đặt xung quanh Tokyo. Hai sự kiện này liệu có liên quan đến nhau? Mọi việc càng trở nên nghiêm trọng khi Ran bị mắc kẹt tại một trong những tòa nhà đã bị đặt bom. Liệu Conan có tìm ra hung thủ và cứu cô bạn mình khỏi khoảnh khắc sinh tử?",
     "genre": [
       "Bí Ẩn",
       "Phiêu Lưu"
     ],
-    "createdAt": "2025-10-10T06:48:48.642Z",
-    "updatedAt": "2025-10-10T06:48:48.642Z"
+    "createdAt": "2025-10-10T06:45:10.224Z",
+    "updatedAt": "2025-10-10T06:45:10.224Z"
+  },
+  {
+    "id": "695d8c78-4ba7-4e1d-b17e-d962940a1015",
+    "title": "Thám Tử Lừng Danh Conan Movie 02- Mục Tiêu Thứ 14 - Detective Conan Movie 02- The Fourteenth Target - Vietsub",
+    "year": 1998,
+    "poster": "https://motchillcr.fm/wp-content/uploads/2024/12/tham-tu-lung-danh-conan-2-muc-tieu-thu-14-8945-thumb.webp",
+    "driveId": "1SlGjuhGY2g9sQIO2xnrxUveGjiAXPgmt",
+    "duration": "100 phút",
+    "rating": 9,
+    "category": "phim-le",
+    "desc": "Conan bị vướng vào rắc rối của gia đình Mori. Murakami, kẻ tội phạm đã bị Mori tống giam nhiều năm trước nay được ra tù. Vì hận thù Mori mà dường như Murakami đang lần lượt gây ra các vụ thương tích và án mạng đối với những người thân thích của ông Mori. Bi kịch thảm sát liên tiếp xảy ra, liệu phán đoán của cảnh sát về hung thủ có đang đi đúng hướng? Conan sẽ làm thế nào để ngăn chặn cuộc đua giết người và tìm ra hung thủ thực sự?",
+    "genre": [
+      "Bí ẩn",
+      "Gia Đình",
+      "Hình Sự",
+      "Phiêu Lưu"
+    ],
+    "createdAt": "2025-10-10T07:09:23.205Z",
+    "updatedAt": "2025-10-10T07:09:23.206Z"
   }
 ]
