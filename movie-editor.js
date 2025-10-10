@@ -5,7 +5,7 @@
 
     // --- Cấu Hình & Tiện Ích (Constants & Utilities) ---
     // URL raw dùng để TẢI dữ liệu ban đầu
-    const RAW_URL = 'https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/lib/movies.json';
+    const RAW_URL = 'https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/main/movies.json';
     const STORAGE_KEY = 'movie-editor.v3';
     const GITHUB_CONF_KEY = 'movie-editor.v3.conf';
     
