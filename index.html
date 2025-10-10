@@ -1,482 +1,85 @@
+@@ -0,0 +1,84 @@
 <!DOCTYPE html>
 <html lang="vi">
-
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <link rel="icon" href="https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/main/favicon.ico" />
+<link rel="icon" href="favicon.ico" />
   <title>Movie Editor</title>
   <style>
-    :root {
-      --bg: #06070a;
-      --surface: #0b0d10;
-      --border: #1f2328;
-      --text: #e6eef6;
-      --muted: #9aa0a6;
-      --accent: #3b82f6;
-      --danger: #dc3545;
-      --success: #10b981;
-    }
-
-    * {
-      box-sizing: border-box;
-    }
-
-    body {
-      margin: 0;
-      font-family: Inter, system-ui, -apple-system, Arial, sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.6;
-    }
-
-    .container {
-      width: min(1100px, 94%);
-      margin: 18px auto;
-      padding-bottom: 40px;
-    }
-
-    .panel {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 16px;
-      margin-bottom: 16px;
-    }
-
-    .panel h2 {
-      margin: 0 0 16px 0;
-      font-size: 20px;
-      font-weight: 600;
-    }
-
-    .grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px;
-    }
-
-    .form-group {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
-    .form-group label {
-      font-size: 13px;
-      font-weight: 500;
-      color: var(--muted);
-    }
-
-    input,
-    textarea,
-    select,
-    button {
-      background: #0f1217;
-      border: 1px solid var(--border);
-      color: var(--text);
-      padding: 10px 12px;
-      border-radius: 8px;
-      font-family: inherit;
-      font-size: 14px;
-      transition: all 0.2s;
-    }
-
-    input:focus,
-    textarea:focus {
-      outline: none;
-      border-color: var(--accent);
-      box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
-    }
-
-    textarea {
-      resize: vertical;
-      min-height: 80px;
-    }
-
-    button {
-      cursor: pointer;
-      font-weight: 500;
-      transition: all 0.2s;
-    }
-
-    button:hover:not(:disabled) {
-      transform: translateY(-1px);
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-    }
-
-    button:active:not(:disabled) {
-      transform: translateY(0);
-    }
-
-    button:disabled {
-      opacity: 0.5;
-      cursor: not-allowed;
-    }
-
-    .primary {
-      background: var(--accent);
-      color: #fff;
-      border: 0;
-    }
-
-    .primary:hover:not(:disabled) {
-      background: #2563eb;
-    }
-
-    .danger {
-      background: var(--danger);
-      color: #fff;
-      border: 0;
-    }
-
-    .danger:hover:not(:disabled) {
-      background: #c82333;
-    }
-
-    .small {
-      padding: 6px 10px;
-      font-size: 13px;
-    }
-
-    /* Category Checkboxes */
-    .category-checkboxes {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      padding: 12px;
-      background: #0a0c0f;
-      border: 1px solid var(--border);
-      border-radius: 8px;
-    }
-
-    .category-checkbox-label {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      cursor: pointer;
-      user-select: none;
-      padding: 6px 12px;
-      border-radius: 6px;
-      transition: all 0.2s;
-      background: #0f1217;
-      border: 1px solid var(--border);
-    }
-
-    .category-checkbox-label:hover {
-      background: #151920;
-      border-color: var(--accent);
-    }
-
-    .category-checkbox-label input[type="checkbox"] {
-      margin: 0;
-      padding: 0;
-      width: 16px;
-      height: 16px;
-      cursor: pointer;
-    }
-
-    .category-checkbox-label span {
-      font-size: 13px;
-      font-weight: 500;
-    }
-
-    /* Category Tags in List */
-    .category-tag {
-      display: inline-block;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      color: white;
-      padding: 4px 10px;
-      border-radius: 12px;
-      font-size: 11px;
-      font-weight: 600;
-      text-transform: lowercase;
-      margin-right: 4px;
-      margin-bottom: 4px;
-    }
-
-    /* Movie List */
-    .row {
-      display: grid;
-      grid-template-columns: 100px 1fr 180px;
-      gap: 12px;
-      align-items: start;
-      padding: 12px;
-      border-radius: 8px;
-      border: 1px solid transparent;
-      transition: all 0.2s;
-    }
-
-    .row:hover {
-      background: #0a0e14;
-      border-color: var(--border);
-      cursor: pointer;
-    }
-
-    .poster-mini {
-      width: 100px;
-      height: 150px;
-      object-fit: cover;
-      border-radius: 6px;
-      background: #091016;
-      border: 1px solid var(--border);
-    }
-
-    .list {
-      display: grid;
-      gap: 8px;
-      max-height: 600px;
-      overflow-y: auto;
-      overflow-x: hidden;
-      padding: 8px;
-    }
-
-    .list::-webkit-scrollbar {
-      width: 8px;
-    }
-
-    .list::-webkit-scrollbar-track {
-      background: #0a0c0f;
-      border-radius: 4px;
-    }
-
-    .list::-webkit-scrollbar-thumb {
-      background: var(--border);
-      border-radius: 4px;
-    }
-
-    .list::-webkit-scrollbar-thumb:hover {
-      background: #2a2f38;
-    }
-
-    .muted {
-      color: var(--muted);
-    }
-
-    .github-status {
-      font-size: 13px;
-      color: var(--muted);
-      padding: 8px 12px;
-      background: #0a0c0f;
-      border-radius: 6px;
-      border: 1px solid var(--border);
-    }
-
-    /* Episodes Editor */
-    .episodes-editor {
-      display: grid;
-      gap: 8px;
-      margin-top: 8px;
-      max-height: 300px;
-      overflow-y: auto;
-      padding: 8px;
-      background: #0a0c0f;
-      border-radius: 8px;
-      border: 1px solid var(--border);
-    }
-
-    .ep-row {
-      display: flex;
-      gap: 8px;
-      align-items: center;
-    }
-
-    .ep-row input {
-      padding: 8px 10px;
-    }
-
-    /* Note Box */
-    .note-box {
-      background: #0a0c0f;
-      border-left: 3px solid var(--accent);
-      padding: 10px 12px;
-      margin-bottom: 12px;
-      border-radius: 4px;
-      font-size: 13px;
-      color: var(--muted);
-    }
-
-    .note-box code {
-      background: #0f1217;
-      padding: 2px 6px;
-      border-radius: 3px;
-      color: var(--accent);
-      font-family: 'Courier New', monospace;
-      font-size: 12px;
-    }
-
-    /* Responsive */
-    @media(max-width:900px) {
-      .grid {
-        grid-template-columns: 1fr;
-      }
-
-      .row {
-        grid-template-columns: 80px 1fr 130px;
-      }
-
-      .poster-mini {
-        width: 80px;
-        height: 120px;
-      }
-
-      .category-checkboxes {
-        gap: 8px;
-        padding: 8px;
-      }
-
-      .category-checkbox-label {
-        padding: 4px 8px;
-        font-size: 12px;
-      }
-    }
-
-    @media(max-width:600px) {
-      .container {
-        width: 96%;
-        margin: 12px auto;
-      }
-
-      .panel {
-        padding: 12px;
-      }
-
-      .row {
-        grid-template-columns: 1fr;
-        gap: 8px;
-      }
-
-      .row > div:last-child {
-        display: flex;
-        gap: 6px;
-        flex-wrap: wrap;
-      }
-    }
-
-    /* Loading State */
-    .loading {
-      opacity: 0.6;
-      pointer-events: none;
-    }
-
-    /* Success/Error Messages */
-    .success {
-      color: var(--success);
-    }
-
-    .error {
-      color: var(--danger);
-    }
+    :root{--bg:#06070a;--surface:#0b0d10;--border:#1f2328;--text:#e6eef6;--muted:#9aa0a6;--accent:#3b82f6}
+    body{margin:0;font-family:Inter,system-ui,Arial;background:var(--bg);color:var(--text)}
+    .container{width:min(1100px,94%);margin:18px auto}
+    .panel{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:12px;margin-bottom:12px}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+    input,textarea,select,button{background:#0f1217;border:1px solid var(--border);color:var(--text);padding:8px;border-radius:8px}
+    button{cursor:pointer}
+    .primary{background:var(--accent);color:#fff;border:0}
+    .row{display:grid;grid-template-columns:100px 1fr 180px;gap:12px;align-items:center;padding:8px;border-radius:8px}
+    .row:hover{background:#071017}
+    .poster-mini{width:100px;height:150px;object-fit:cover;border-radius:6px;background:#091016}
+    .list{display:grid;gap:8px;max-height:520px;overflow:auto;padding:6px}
+    .muted{color:var(--muted)}
+    .github-status{font-size:13px;color:var(--muted);margin-left:8px;display:inline-block}
+    .episodes-editor{display:grid;gap:6px;margin-top:6px}
+    .ep-row{display:flex;gap:6px}
+    .small{padding:6px;font-size:13px}
+    @media(max-width:900px){.grid{grid-template-columns:1fr}.row{grid-template-columns:84px 1fr 120px}}
   </style>
 </head>
-
 <body>
   <div class="container">
-    <!-- GitHub Configuration -->
     <div class="panel">
-      <h2>⚙️ GitHub Configuration</h2>
-      <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
-        <input id="githubToken" type="password" placeholder="GitHub Token (chỉ để commit)" style="flex:1;min-width:200px" />
-        <input id="githubRepo" placeholder="owner/repo" value="crytals-sc/json-link" style="width:260px" />
-        <input id="githubBranch" placeholder="branch (main)" value="main" style="width:120px" />
-        <button id="commitToGithub" class="primary small">📤 Commit to GitHub</button>
+      <h2>GitHub Configuration</h2>
+      <div style="display:flex;gap:8px;flex-wrap:wrap">
+        <input id="githubToken" type="password" placeholder="GitHub Token (chỉ để commit)" style="flex:1"/>
+        <input id="githubRepo" placeholder="owner/repo" style="width:260px"/>
+        <input id="githubBranch" placeholder="branch (main)" value="main" style="width:120px"/>
+        <button id="commitToGithub" class="primary small">Commit to GitHub</button>
+        <div id="githubStatus" class="github-status">Trạng thái</div>
       </div>
-      <div id="githubStatus" class="github-status" style="margin-top:8px">Sẵn sàng commit</div>
     </div>
 
-    <!-- Form phim -->
     <div class="panel">
-      <h2>📝 Form phim</h2>
-      
-      <div class="note-box">
-        💡 <strong>Lưu ý:</strong> Drive ID lấy từ URL chia sẻ.<br>
-        Ví dụ: <code>https://drive.google.com/file/d/17DFDJdo1w_c/view</code> → driveId: <code>17DFDJdo1w_c</code>
-      </div>
-
+      <h2>Form phim (click row để sửa)</h2>
       <div class="grid">
-        <div class="form-group">
-          <label>Tên phim *</label>
-          <input id="title" placeholder="Nhập tên phim..." />
-        </div>
+        <input id="title" placeholder="Title" />
+        <input id="year" placeholder="Year" type="number" />
+        <input id="poster" placeholder="Poster URL" />
+        <input id="driveId" placeholder="driveId (tập đơn hoặc phim)"/>
+        <input id="duration" placeholder="Duration (vd. 2:12:00)"/>
+        <input id="rating" placeholder="Rating (vd. 4.5)" type="number" step="0.1"/>
+        <input id="category" placeholder="category (phim-le, phim-bo, tv)"/>
+        <input id="genre" placeholder="genre (comma separated)"/>
+      </div>
 
-        <div class="form-group">
-          <label>Năm</label>
-          <input id="year" placeholder="2024" type="number" min="1900" max="2100" />
-        </div>
+      <div style="margin-top:8px">
+        <textarea id="desc" placeholder="Description" rows="3" style="width:100%"></textarea>
+      </div>
 
-        <div class="form-group" style="grid-column: 1 / -1">
-          <label>Poster URL</label>
-          <input id="poster" placeholder="https://raw.githubusercontent.com/..." />
-        </div>
-
-        <div class="form-group">
-          <label>Drive ID (cho phim lẻ)</label>
-          <input id="driveId" placeholder="17DFDJdo1w_c" />
-        </div>
-
-        <div class="form-group">
-          <label>Thời lượng</label>
-          <input id="duration" placeholder="2:12:00" />
-        </div>
-
-        <div class="form-group">
-          <label>Rating</label>
-          <input id="rating" placeholder="8.5" type="number" step="0.1" min="0" max="10" />
-        </div>
-
-        <div class="form-group">
-          <label>Genre (phân cách bằng dấu phẩy)</label>
-          <input id="genre" placeholder="action, drama, comedy" />
-        </div>
-
-        <div class="form-group" style="grid-column: 1 / -1">
-          <label>Categories * (chọn ít nhất 1)</label>
-          <div id="categoryCheckboxes" class="category-checkboxes">
-            <!-- Checkboxes sẽ được render bởi JS -->
-          </div>
-        </div>
-
-        <div class="form-group" style="grid-column: 1 / -1">
-          <label>Mô tả</label>
-          <textarea id="desc" placeholder="Mô tả nội dung phim..." rows="3"></textarea>
+      <div style="margin-top:8px">
+        <label class="muted">Episodes (chỉ cho phim bộ). Thêm ít nhất name + driveId.</label>
+        <div id="episodesEditor" class="episodes-editor"></div>
+        <div style="margin-top:6px;display:flex;gap:6px">
+          <button id="addEpisode" class="small">Thêm tập</button>
+          <button id="clearEpisodes" class="small">Xóa tất cả tập</button>
         </div>
       </div>
 
-      <!-- Episodes Editor -->
-      <div style="margin-top:16px">
-        <label class="muted" style="display:block;margin-bottom:8px">
-          📺 Episodes (dành cho phim bộ) - Thêm ít nhất tên + driveId cho mỗi tập
-        </label>
-        <div id="episodesEditor" class="episodes-editor">
-          <!-- Episodes sẽ được render bởi JS -->
-        </div>
-        <div style="margin-top:8px;display:flex;gap:8px">
-          <button id="addEpisode" class="small">➕ Thêm tập</button>
-          <button id="clearEpisodes" class="small danger">🗑️ Xóa tất cả tập</button>
-        </div>
-      </div>
-
-      <!-- Form Actions -->
-      <div style="margin-top:16px;display:flex;gap:8px;flex-wrap:wrap;align-items:center">
-        <button id="add" class="primary">➕ Thêm vào list</button>
-        <button id="download" class="small">💾 Tải JSON</button>
-        <div id="formStatus" class="muted" style="margin-left:8px"></div>
+      <div style="margin-top:10px;display:flex;gap:8px">
+        <button id="add" class="primary">Thêm vào list</button>
+        <button id="download" class="small">Tải JSON</button>
+        <div id="formStatus" class="muted" style="align-self:center"></div>
       </div>
     </div>
 
-    <!-- Danh sách phim -->
     <div class="panel">
-      <h2>🎬 Danh sách phim</h2>
-      <div id="list" class="list">
-        <div class="muted" style="text-align:center;padding:20px">
-          Đang tải...
-        </div>
-      </div>
+      <h2>Danh sách phim</h2>
+      <div id="list" class="list"></div>
     </div>
   </div>
 
-  <script src="https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/main/movie-editor.js"></script>
+  <script src="movie-editor.js"></script>
 
 </body>
-
 </html>
