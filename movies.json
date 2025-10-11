@@ -400,5 +400,26 @@
     ],
     "createdAt": "2025-10-11T04:35:31.740Z",
     "updatedAt": "2025-10-11T04:35:31.740Z"
+  },
+  {
+    "id": "82fab87e-73bf-43f9-869a-73a2e282573f",
+    "title": "Một bộ phim Minecraft",
+    "year": 2025,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/A_Minecraft_Movie_2025_poster.jpg?raw=true",
+    "driveId": "1dPCwjcKurHKlXtr6_8uxkOUp0RzVCP8l",
+    "duration": "101 phút",
+    "rating": 8.7,
+    "category": "phim-le",
+    "desc": "Một bộ phim Minecraft là một bộ phim điện ảnh Mỹ thuộc thể loại hài – phiêu lưu ra mắt vào năm 2025, là tác phẩm dựa trên một trong những loạt trò chơi điện tử bán chạy nhất trên toàn thế giới, được ra mắt vào năm 2011 mang tên Minecraft do Markus \"Notch\" Persson sáng tạo và Mojang Studios phát triển.",
+    "genre": [
+      "Hoạt họa",
+      "Hài",
+      "Hành động",
+      "Gia đình",
+      "Phiêu lưu",
+      "Kỳ ảo"
+    ],
+    "createdAt": "2025-10-11T04:38:42.693Z",
+    "updatedAt": "2025-10-11T04:38:42.693Z"
   }
 ]
