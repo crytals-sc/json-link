@@ -364,5 +364,41 @@
     ],
     "createdAt": "2025-10-11T04:07:10.735Z",
     "updatedAt": "2025-10-11T04:18:53.750Z"
+  },
+  {
+    "id": "559cf6d0-61b7-4859-9733-d7fe14501602",
+    "title": "Quái Vật Không Gian- Romulus",
+    "year": 2024,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/referenceSchemeHeadOfficeallowPlaceHoldertrueheight700ldapp-1.png?raw=true",
+    "driveId": "1AEQ-EVnXXXoHoCY8tpDimqspbbzXcDpA",
+    "duration": "120 phút",
+    "rating": 9.8,
+    "category": "phim-le",
+    "desc": "Quái vật không gian: Romulus là một bộ phim điện ảnh Anh – Mỹ thuộc thể loại kinh dị – khoa học viễn tưởng – giật gân ra mắt vào năm 2024 do Fede Álvarez làm đạo diễn, viết kịch bản và đồng giám đốc sản xuất. Đây là phần phim độc lập của loạt phim Alien, lấy bởi cảnh giữa các sự kiện của hai bộ phim Alien và Aliens",
+    "genre": [
+      "Kinh Dị",
+      "Khoa Học Viễn Tưởng",
+      "Hành Động",
+      "Giật Gân"
+    ],
+    "createdAt": "2025-10-11T04:31:28.437Z",
+    "updatedAt": "2025-10-11T04:31:28.437Z"
+  },
+  {
+    "id": "1e01e74c-edfb-4ff5-9db2-a5f775c74e67",
+    "title": "Thế giới khủng long: Tái sinh",
+    "year": 2025,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/jw4_sjquetzart_470x700.jpg?raw=true",
+    "driveId": "1gVJH9TLFIlpZxCk6Syv9CT7-GQZwV6uF",
+    "duration": "133 phút",
+    "rating": 3.2,
+    "category": "phim-le",
+    "desc": "Thế giới khủng long: Tái sinh là một bộ phim hành động khoa học viễn tưởng sắp ra mắt của Mỹ, do Gareth Edwards đạo diễn và David Koepp biên kịch  <note admin: phimnhucuc>",
+    "genre": [
+      "Hành Động",
+      "Khoa Học Viễn Tưởng"
+    ],
+    "createdAt": "2025-10-11T04:35:31.740Z",
+    "updatedAt": "2025-10-11T04:35:31.740Z"
   }
 ]
