@@ -1,5 +1,73 @@
 [
   {
+    "id": "3862e04f-081a-4511-bd94-6ae43fd5bd9a",
+    "title": "Hoán Đổi Trái Tim",
+    "year": 2025,
+    "poster": "https://image-cdn.motchilltv.mx/images/20250815/hoan-doi-trai-tim.webp",
+    "driveId": "",
+    "duration": "51 phút",
+    "category": "phim-bo",
+    "desc": "Hoán Đổi Trái Tim xoay quanh mối thù kéo dài từ thời học sinh giữa hai nhân vật Rey và Print. Khi họ gặp lại nhau trong vai chính của một bộ phim truyền hình được mong chờ nhất năm, mọi chuyện trở nên bất ngờ khi chỉ một tuần trước thời điểm ghi hình, họ bỗng phát hiện ra rằng linh hồn của mình đã bị hoán đổi vào cơ thể của nhau! Cuộc hỗn loạn bắt đầu nảy sinh trong quá trình sản xuất khi Rey và Print phải nỗ lực hết mình để bắt chước tính cách của đối phương trên phim trường. Tuy nhiên, giữa những rắc rối và trớ trêu, một câu hỏi lớn nổi lên: liệu họ có bắt đầu phát triển những cảm xúc bất ngờ dành cho nhau trong cuộc hành trình đầy cam go này?",
+    "genre": [
+      "Thái Lan",
+      "Bách Hợp",
+      "Tình Cảm"
+    ],
+    "episodes": [
+      {
+        "name": "Tập 1",
+        "driveId": "1DBw6uadKtxN1husZXaxMwJSCRlyxm9ax"
+      },
+      {
+        "name": "Tập 2",
+        "driveId": "1IIjGRLD2zKnnb-tQ-6dnewwLBpz2B-bs"
+      },
+      {
+        "name": "Tập 3",
+        "driveId": "1LkOVYBpaoUG-Coo8FAsq0aSiBLKcUFG5"
+      },
+      {
+        "name": "Tập 4",
+        "driveId": "1NZfiamhcox2Hl-EbF60oOZGfQg3G2x_j"
+      },
+      {
+        "name": "Tập 5",
+        "driveId": "1MZtNUHYbasMsJJJu0DIcvijr-La9Izgp"
+      },
+      {
+        "name": "Tập 6",
+        "driveId": "1wdDWnz9OxYN-3RPKFwVRNWOpwZKYh8z-"
+      },
+      {
+        "name": "Tập 7",
+        "driveId": "1DqQ7YmhGtF721O-v24FYlFccNfLsamRI"
+      },
+      {
+        "name": "Tập 8",
+        "driveId": "1NIjFuxiOV-T9kax8RxjSMzX_IVNudHrI"
+      },
+      {
+        "name": "Tập 9",
+        "driveId": "12vorRLjO-7BNeLP9m3--V0vKlJiLnTpk"
+      },
+      {
+        "name": "Tập 10",
+        "driveId": "1o0J_qoSM9hQTZfw94vD4j1tGiwYEXX9z"
+      },
+      {
+        "name": "Tập 11",
+        "driveId": "1kzPSvTLGJ-y8REMVdTYuA7fhEFj-asEe"
+      },
+      {
+        "name": "Tập 12",
+        "driveId": ""
+      }
+    ],
+    "createdAt": "2025-10-09T15:35:29.545Z",
+    "updatedAt": "2025-10-11T04:22:53.784Z",
+    "rating": 8.7
+  },
+  {
     "id": "1",
     "title": "Nhiệm Vụ Bất Khả Thi - Nghiệp Báo Cuối Cùng",
     "year": 2025,
@@ -7,46 +75,15 @@
     "desc": "Cuộc đời là tất thảy những lựa chọn. Tom Cruise thủ vai Ethan Hunt trở lại trong Nhiệm Vụ: Bất Khả Thi – Nghiệp Báo Cuối Cùng.",
     "driveId": "1N-lJ3dTqUEjbTeOp1vb2cdDpGPDyqDlQ",
     "sub": "",
-    "duration": "168 phút 58 giây",
+    "duration": "168 phút",
     "genre": [
       "Hành Động",
       "Tâm Lý",
       "Giật Gân"
     ],
-    "rating": 4.9,
+    "rating": 9.4,
     "category": "phim-le",
-    "updatedAt": "2025-10-09T15:56:38.292Z"
-  },
-  {
-    "id": "2",
-    "title": "Thám tử lừng danh Conan-Series",
-    "year": 2024,
-    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/conan-poster-single-mov.jpg",
-    "desc": "Bộ phim chuyển thể từ truyện tranh trinh thám nổi tiếng cùng tên, câu chuyện kể về cuộc hành săn đuổi sự thật của chàng thám tử nhí bị teo nhỏ. Sự thật luôn chỉ có một!",
-    "sub": "",
-    "duration": "Tập ~20phút",
-    "genre": [
-      "Drama",
-      "Detective",
-      "Action"
-    ],
-    "rating": 4.5,
-    "category": [
-      "phim-bo",
-      "hoat-hinh"
-    ],
-    "episodes": [
-      {
-        "name": "Tập 1",
-        "driveId": "1fHoXhmIVcScFs6nVn0JfjpgyZvllpt1W"
-      },
-      {
-        "name": "Tập 2",
-        "driveId": "1e0WbSuaCk-5oKlMEMyhKCQ5RfjXpA3WN"
-      }
-    ],
-    "driveId": "",
-    "updatedAt": "2025-10-10T12:44:13.487Z"
+    "updatedAt": "2025-10-11T04:22:36.097Z"
   },
   {
     "id": "d68fc39b-7041-4c97-9327-277d71f1ec76",
@@ -114,74 +151,49 @@
       }
     ],
     "createdAt": "2025-10-09T15:27:14.962Z",
-    "updatedAt": "2025-10-10T03:28:40.236Z"
+    "updatedAt": "2025-10-10T07:20:20.687Z"
   },
   {
-    "id": "3862e04f-081a-4511-bd94-6ae43fd5bd9a",
-    "title": "Hoán Đổi Trái Tim",
+    "id": "3ea3eba8-0bf3-48ef-8e55-b2fa4739507c",
+    "title": "Yến Ngộ Vĩnh An",
     "year": 2025,
-    "poster": "https://image-cdn.motchilltv.mx/images/20250815/hoan-doi-trai-tim.webp",
+    "poster": "https://image-cdn.motchilltv.mx/images/20251004/yen-ngo-vinh-an.webp",
     "driveId": "",
-    "duration": "51 phút",
+    "duration": "45 phút",
+    "rating": 8.4,
     "category": "phim-bo",
-    "desc": "Hoán Đổi Trái Tim xoay quanh mối thù kéo dài từ thời học sinh giữa hai nhân vật Rey và Print. Khi họ gặp lại nhau trong vai chính của một bộ phim truyền hình được mong chờ nhất năm, mọi chuyện trở nên bất ngờ khi chỉ một tuần trước thời điểm ghi hình, họ bỗng phát hiện ra rằng linh hồn của mình đã bị hoán đổi vào cơ thể của nhau! Cuộc hỗn loạn bắt đầu nảy sinh trong quá trình sản xuất khi Rey và Print phải nỗ lực hết mình để bắt chước tính cách của đối phương trên phim trường. Tuy nhiên, giữa những rắc rối và trớ trêu, một câu hỏi lớn nổi lên: liệu họ có bắt đầu phát triển những cảm xúc bất ngờ dành cho nhau trong cuộc hành trình đầy cam go này?",
+    "desc": "Yến Ngộ Vĩnh An xoay quanh hành trình của Thẩm Thiều Quang (Vương Ảnh Lộ) và Lâm Yến (Lý Quân Nhuệ). Gia đình Thẩm vốn mở một quán cơm bình dị ở thời hiện đại, nhưng bất ngờ bị cuốn vào dòng thời gian và đặt chân đến thời Đại Đường rực rỡ. Từ đó, câu chuyện đan xen giữa ẩm thực, phong tục và những trải nghiệm văn hóa đặc sắc dần mở ra\n\n\n\"Yến Ngộ Vĩnh An\" được chuyển thể từ tiểu thuyết Tiệm cơm nhỏ thành Trường An của tác giả Bánh Anh Đào.",
     "genre": [
-      "Thái Lan",
-      "Bách Hợp",
-      "Tình Cảm"
+      "Cổ Trang",
+      "Tình Cảm",
+      "Hài Hước",
+      "Chuyển Thể",
+      "Trung Quốc"
     ],
     "episodes": [
       {
         "name": "Tập 1",
-        "driveId": "1DBw6uadKtxN1husZXaxMwJSCRlyxm9ax"
+        "driveId": "1IfbxbrU2YJxcz5ZBkVsCBg0qcBNASH3n"
       },
       {
         "name": "Tập 2",
-        "driveId": "1IIjGRLD2zKnnb-tQ-6dnewwLBpz2B-bs"
+        "driveId": "1WJYWangVfztZ9I7IwSm1y4uaG8dkWnE6"
       },
       {
         "name": "Tập 3",
-        "driveId": "1LkOVYBpaoUG-Coo8FAsq0aSiBLKcUFG5"
+        "driveId": "1o39kv22IpJ97-o2qOOZE-nAZgxVGlmxU"
       },
       {
         "name": "Tập 4",
-        "driveId": "1NZfiamhcox2Hl-EbF60oOZGfQg3G2x_j"
+        "driveId": "1qQL5N27hF2IUIuHb8MY5-hd2U5RePSNY"
       },
       {
         "name": "Tập 5",
-        "driveId": "1MZtNUHYbasMsJJJu0DIcvijr-La9Izgp"
-      },
-      {
-        "name": "Tập 6",
-        "driveId": "1wdDWnz9OxYN-3RPKFwVRNWOpwZKYh8z-"
-      },
-      {
-        "name": "Tập 7",
-        "driveId": "1DqQ7YmhGtF721O-v24FYlFccNfLsamRI"
-      },
-      {
-        "name": "Tập 8",
-        "driveId": "1NIjFuxiOV-T9kax8RxjSMzX_IVNudHrI"
-      },
-      {
-        "name": "Tập 9",
-        "driveId": "12vorRLjO-7BNeLP9m3--V0vKlJiLnTpk"
-      },
-      {
-        "name": "Tập 10",
-        "driveId": "1o0J_qoSM9hQTZfw94vD4j1tGiwYEXX9z"
-      },
-      {
-        "name": "Tập 11",
-        "driveId": "1kzPSvTLGJ-y8REMVdTYuA7fhEFj-asEe"
-      },
-      {
-        "name": "Tập 12",
-        "driveId": ""
+        "driveId": "1WEpB9PE7UVCluzGjCxmqHmvQKipTi3Xd"
       }
     ],
-    "createdAt": "2025-10-09T15:35:29.545Z",
-    "updatedAt": "2025-10-09T16:20:46.859Z"
+    "createdAt": "2025-10-10T03:22:00.459Z",
+    "updatedAt": "2025-10-11T04:22:16.195Z"
   },
   {
     "id": "7122ae95-d62b-4877-96f0-c1618815c8f0",
@@ -201,52 +213,38 @@
     "updatedAt": "2025-10-09T15:51:19.128Z"
   },
   {
-    "id": "3ea3eba8-0bf3-48ef-8e55-b2fa4739507c",
-    "title": "Yến Ngộ Vĩnh An",
-    "year": 2025,
-    "poster": "https://image-cdn.motchilltv.mx/images/20251004/yen-ngo-vinh-an.webp",
-    "driveId": "",
-    "duration": "45 phút",
-    "rating": 8.4,
-    "category": "phim-bo",
-    "desc": "Yến Ngộ Vĩnh An xoay quanh hành trình của Thẩm Thiều Quang (Vương Ảnh Lộ) và Lâm Yến (Lý Quân Nhuệ). Gia đình Thẩm vốn mở một quán cơm bình dị ở thời hiện đại, nhưng bất ngờ bị cuốn vào dòng thời gian và đặt chân đến thời Đại Đường rực rỡ. Từ đó, câu chuyện đan xen giữa ẩm thực, phong tục và những trải nghiệm văn hóa đặc sắc dần mở ra\n<br>\n\"Yến Ngộ Vĩnh An\" được chuyển thể từ tiểu thuyết Tiệm cơm nhỏ thành Trường An của tác giả Bánh Anh Đào.",
+    "id": "2",
+    "title": "Thám tử lừng danh Conan-Series",
+    "year": 2024,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/conan-poster-single-mov.jpg",
+    "desc": "Bộ phim chuyển thể từ truyện tranh trinh thám nổi tiếng cùng tên, câu chuyện kể về cuộc hành săn đuổi sự thật của chàng thám tử nhí bị teo nhỏ. Sự thật luôn chỉ có một!",
+    "sub": "",
+    "duration": "Tập ~20phút",
     "genre": [
-      "Cổ Trang",
-      "Tình Cảm",
-      "Hài Hước",
-      "Chuyển Thể",
-      "Trung Quốc"
+      "Drama",
+      "Detective",
+      "Action"
     ],
+    "rating": 4.5,
+    "category": "phim-hoat-hinh",
     "episodes": [
       {
         "name": "Tập 1",
-        "driveId": ""
+        "driveId": "1fHoXhmIVcScFs6nVn0JfjpgyZvllpt1W"
       },
       {
         "name": "Tập 2",
-        "driveId": ""
-      },
-      {
-        "name": "Tập 3",
-        "driveId": ""
-      },
-      {
-        "name": "Tập 4",
-        "driveId": ""
-      },
-      {
-        "name": "Tập 5",
-        "driveId": ""
+        "driveId": "1e0WbSuaCk-5oKlMEMyhKCQ5RfjXpA3WN"
       }
     ],
-    "createdAt": "2025-10-10T03:22:00.459Z",
-    "updatedAt": "2025-10-10T03:24:05.675Z"
+    "driveId": "",
+    "updatedAt": "2025-10-11T04:19:09.706Z"
   },
   {
     "id": "cc5a13d5-8ab4-422c-82c8-fad4cb1a9eec",
     "title": "Bí Kíp Luyện Rồng (Live Action) - Tập Full",
     "year": 2025,
-    "poster": "https://motchillx.cc/wp-content/uploads/2025/07/bi-kip-luyen-rong-how-to-train-your-dragon.webp",
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/bi-kip-luyen-rong-how-to-train-your-dragon.webp",
     "driveId": "1ztYwMCudQ0ahC894LG_l2PE-z7nli6h_",
     "duration": "125 phút",
     "rating": 9.2,
@@ -260,6 +258,111 @@
       "Viễn Tưởng"
     ],
     "createdAt": "2025-10-10T03:26:21.346Z",
-    "updatedAt": "2025-10-10T03:26:21.346Z"
+    "updatedAt": "2025-10-10T07:36:38.811Z"
+  },
+  {
+    "id": "602ed7ff-3493-486b-8d3e-16b16c995eda",
+    "title": "Hanzawa- Tên Hung Thủ Số Nhọ - Detective Conan- The Culprit Hanzawa - Vietsub",
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/5_b3da96f3-20a6-41c8-8f6c-5abdf63b9898.webp",
+    "driveId": "1_yWLZOdKsQDAHLRtiT5dAq6o8QKCLD-_",
+    "duration": "~120 phút",
+    "category": "phim-le",
+    "desc": "Hanzawa Chàng Hung Thủ Số Nhọ là một bộ truyện tranh lấy trung tâm là \"tội phạm\" bóng đen xuất hiện trong các chương của sê-ri gốc Thám tử lừng danh Conan để đại diện cho hung thủ khi chưa được xác định là ai.",
+    "genre": [
+      "Hoạt Hình",
+      "Hành Động",
+      "Ly Kỳ"
+    ],
+    "createdAt": "2025-10-10T06:41:05.943Z",
+    "updatedAt": "2025-10-11T04:21:12.633Z",
+    "year": 2023,
+    "rating": 4.5
+  },
+  {
+    "id": "3eeb3dfa-0678-4486-a09b-2ebd1e1326c3",
+    "title": "Thám Tử Lừng Danh Conan Movie 01- Quả Bom Chọc Trời - Detective Conan Movie 01- The Time Bombed Skyscraper - Vietsub",
+    "year": 1997,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/i8mXheCgoCQj3Ikz7pE50akJOR.webp?raw=true",
+    "driveId": "1MXOw-m5csJ1jd2XauHa3YnZI0rnHmKem",
+    "duration": "95 phút",
+    "rating": 10,
+    "category": "phim-le",
+    "desc": "Trong tập phim này, Shinichi nhận lời mời dự tiệc từ kiến trúc sư Teiji Moriya, người không hề biết cậu đã bị thu nhỏ thành Conan. Cùng lúc đó, một kẻ lạ mặt gọi điện thách thức cậu tìm ra những quả bom đang được đặt xung quanh Tokyo. Hai sự kiện này liệu có liên quan đến nhau? Mọi việc càng trở nên nghiêm trọng khi Ran bị mắc kẹt tại một trong những tòa nhà đã bị đặt bom. Liệu Conan có tìm ra hung thủ và cứu cô bạn mình khỏi khoảnh khắc sinh tử?",
+    "genre": [
+      "Bí Ẩn",
+      "Phiêu Lưu"
+    ],
+    "createdAt": "2025-10-10T06:45:10.224Z",
+    "updatedAt": "2025-10-11T04:17:22.773Z"
+  },
+  {
+    "id": "695d8c78-4ba7-4e1d-b17e-d962940a1015",
+    "title": "Thám Tử Lừng Danh Conan Movie 02- Mục Tiêu Thứ 14 - Detective Conan Movie 02- The Fourteenth Target - Vietsub",
+    "year": 1998,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/tham-tu-lung-danh-conan-2-muc-tieu-thu-14-8945-thumb.webp?raw=true",
+    "driveId": "1SlGjuhGY2g9sQIO2xnrxUveGjiAXPgmt",
+    "duration": "100 phút",
+    "rating": 9,
+    "category": "phim-le",
+    "desc": "Conan bị vướng vào rắc rối của gia đình Mori. Murakami, kẻ tội phạm đã bị Mori tống giam nhiều năm trước nay được ra tù. Vì hận thù Mori mà dường như Murakami đang lần lượt gây ra các vụ thương tích và án mạng đối với những người thân thích của ông Mori. Bi kịch thảm sát liên tiếp xảy ra, liệu phán đoán của cảnh sát về hung thủ có đang đi đúng hướng? Conan sẽ làm thế nào để ngăn chặn cuộc đua giết người và tìm ra hung thủ thực sự?",
+    "genre": [
+      "Bí ẩn",
+      "Gia Đình",
+      "Hình Sự",
+      "Phiêu Lưu"
+    ],
+    "createdAt": "2025-10-10T07:09:23.205Z",
+    "updatedAt": "2025-10-11T04:18:09.191Z"
+  },
+  {
+    "id": "21d2837d-987d-4762-bcdf-afba50010f7a",
+    "title": "Thanh Gươm Diệt Quỷ- Vô Hạn Thành",
+    "year": 2025,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/kmyb_imax_2000x3000-min.jpg?raw=true",
+    "driveId": "1s8AMryb9EQkSWDqQeZVB7KIF5DvB5yRb",
+    "duration": "155 phút",
+    "rating": 9.8,
+    "category": "phim-hoat-hinh",
+    "desc": "Bộ phim đầu tiên trong bộ ba phim Thanh Gươm Diệt Quỷ: Vô Hạn Thành. Đây là phần bắt đầu cho trận chiến cuối cùng giữa Sát Quỷ Đoàn cùng Muzan và bè lũ quỷ tại Vô Hạn Thành. Bộ phim quy tụ gần như toàn bộ Trụ Cột & các nhân vật chính đối đầu nhóm Thượng Huyền mạnh nhất của Muzan; cùng bối cảnh Vô Hạn Thành phức tạp, kiến trúc đảo lộn và di chuyển liên tục hứa hẹn mang đến những trận chiến đấu đầy mãn nhãn.",
+    "genre": [
+      "Hành Động",
+      "Hoạt Hình"
+    ],
+    "createdAt": "2025-10-11T04:00:41.434Z",
+    "updatedAt": "2025-10-11T04:18:26.249Z"
+  },
+  {
+    "id": "e088da11-86e5-4326-a7b9-8146a45866d0",
+    "title": "Mật Vụ Phụ Hồ",
+    "year": 2025,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/mat-vu-phu-ho-500_1742357908078.jpg?raw=true",
+    "driveId": "1GP79oRqfxUbyP8cbSQ_ZBtdjOFH36VyN",
+    "duration": "115 phút",
+    "rating": 8.9,
+    "category": "phim-le",
+    "desc": "Levon Cade - cựu biệt kích tinh nhuệ thuộc lực lượng Thủy quân Lục chiến Hoàng gia Anh. Sau khi nghỉ hưu, anh sống cuộc đời yên bình là một công nhân xây dựng tại Chicago (Mỹ). Levon có mối quan hệ rất tốt với gia đình ông chủ Joe Garcia (Michael Peña). Một ngày nọ cô con gái tuổi teen Jenny (Arianna Rivas) của Joe bị bắt cóc khiến chàng cựu quân nhân phải sử dụng lại các kỹ năng giết chóc của mình để giúp đỡ.",
+    "genre": [
+      "Hành Động",
+      "Ly Kỳ"
+    ],
+    "createdAt": "2025-10-11T04:03:28.018Z",
+    "updatedAt": "2025-10-11T04:18:40.588Z"
+  },
+  {
+    "id": "46f78f1b-2329-4755-a3c4-fb352f7f83ab",
+    "title": "Doraemon Movie 44- Nobita và Cuộc Phiêu Lưu Vào Thế Giới Trong Tranh",
+    "year": 2025,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/doraemon-movie-44-e1754757512321.jpg?raw=true",
+    "driveId": "18pOmkqYbCwwtqRjGGMjTyUexKOk87bB0",
+    "duration": "105 phút",
+    "rating": 3,
+    "category": "phim-le",
+    "desc": "Đánh dấu 45 năm hành trình của “Doraemon the Movie”, Doraemon Movie 44 đưa Doraemon, Nobita và các bạn bước vào một chuyến phiêu lưu độc đáo qua một bức tranh dẫn đến châu Âu thời Trung cổ. Tại vương quốc Artoria, họ làm quen với những người bạn nhỏ và gặp gỡ Chai – một chú quỷ có cánh đầy bí ẩn. Cùng nhau, cả nhóm đối mặt với một kẻ thù hùng mạnh để bảo vệ viên ngọc huyền thoại, mở ra một câu chuyện tràn ngập cảm xúc, bất ngờ và những khoảnh khắc đáng nhớ.",
+    "genre": [
+      "Hoạt Hình",
+      "Phiêu Lưu"
+    ],
+    "createdAt": "2025-10-11T04:07:10.735Z",
+    "updatedAt": "2025-10-11T04:18:53.750Z"
   }
 ]
