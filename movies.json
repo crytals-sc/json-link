@@ -262,7 +262,7 @@
   },
   {
     "id": "602ed7ff-3493-486b-8d3e-16b16c995eda",
-    "title": "Hanzawa- Tên Hung Thủ Số Nhọ - Detective Conan- The Culprit Hanzawa - Vietsub",
+    "title": "Hanzawa- Tên Hung Thủ Số Nhọ - The Culprit Hanzawa",
     "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/5_b3da96f3-20a6-41c8-8f6c-5abdf63b9898.webp",
     "driveId": "1_yWLZOdKsQDAHLRtiT5dAq6o8QKCLD-_",
     "duration": "~120 phút",
@@ -274,13 +274,13 @@
       "Ly Kỳ"
     ],
     "createdAt": "2025-10-10T06:41:05.943Z",
-    "updatedAt": "2025-10-11T04:21:12.633Z",
+    "updatedAt": "2025-10-11T13:06:03.629Z",
     "year": 2023,
     "rating": 4.5
   },
   {
     "id": "3eeb3dfa-0678-4486-a09b-2ebd1e1326c3",
-    "title": "Thám Tử Lừng Danh Conan Movie 01- Quả Bom Chọc Trời - Detective Conan Movie 01- The Time Bombed Skyscraper - Vietsub",
+    "title": "Thám Tử Lừng Danh Conan Movie 01- Quả Bom Chọc Trời",
     "year": 1997,
     "poster": "https://github.com/crytals-sc/json-link/blob/img/i8mXheCgoCQj3Ikz7pE50akJOR.webp?raw=true",
     "driveId": "1MXOw-m5csJ1jd2XauHa3YnZI0rnHmKem",
@@ -293,11 +293,11 @@
       "Phiêu Lưu"
     ],
     "createdAt": "2025-10-10T06:45:10.224Z",
-    "updatedAt": "2025-10-11T04:17:22.773Z"
+    "updatedAt": "2025-10-11T13:06:14.366Z"
   },
   {
     "id": "695d8c78-4ba7-4e1d-b17e-d962940a1015",
-    "title": "Thám Tử Lừng Danh Conan Movie 02- Mục Tiêu Thứ 14 - Detective Conan Movie 02- The Fourteenth Target - Vietsub",
+    "title": "Thám Tử Lừng Danh Conan Movie 02- Mục Tiêu Thứ 14",
     "year": 1998,
     "poster": "https://github.com/crytals-sc/json-link/blob/img/tham-tu-lung-danh-conan-2-muc-tieu-thu-14-8945-thumb.webp?raw=true",
     "driveId": "1SlGjuhGY2g9sQIO2xnrxUveGjiAXPgmt",
@@ -312,7 +312,7 @@
       "Phiêu Lưu"
     ],
     "createdAt": "2025-10-10T07:09:23.205Z",
-    "updatedAt": "2025-10-11T04:18:09.191Z"
+    "updatedAt": "2025-10-11T13:06:35.876Z"
   },
   {
     "id": "21d2837d-987d-4762-bcdf-afba50010f7a",
@@ -421,5 +421,62 @@
     ],
     "createdAt": "2025-10-11T04:38:42.693Z",
     "updatedAt": "2025-10-11T04:38:42.693Z"
+  },
+  {
+    "id": "023fe8ea-4ad8-4241-8f4f-6c048fd60207",
+    "title": "Thám Tử Lừng Danh Conan Movie 03- Ảo Thuật Gia Cuối Cùng Của Thế Kỷ",
+    "year": 1999,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/Th%C3%A1m%20T%E1%BB%AD%20L%E1%BB%ABng%20Danh%20Conan%20Movie%2003.jpg?raw=true",
+    "driveId": "1MKg4uMu-ezh6DCZQGd7N5HZ9Ck6ZCu0O",
+    "duration": "100 phút",
+    "category": "phim-le",
+    "desc": "Imperial Easter Egg là món đồ nghệ thuật mà sa hoàng Nga đặt nghệ nhân Faberge tạo ra để làm quà tặng cho hoàng hậu nhân lễ phục sinh. Không chỉ Kid mà rất nhiều nhân vật tham gia vào vụ trộm này : Hoshi Seiran, nhà nghiên cứu vương triều Romanov; Ông Inui, nhà buôn đồ cổ; Ông Serger Ovchinikov – bí thư thứ nhất đại sứ quán Nga; Anh Sagawa Ryu – nhiếp ảnh gia tự do… Một cuộc họp khẩn do thanh tra Chaki chủ trì với sự góp mặt của các thanh tra cảnh sát cao cấp nhằm giải mã thư cảnh báo của siêu đạo chích Kid và ngăn chặn vụ trộm của hắn. Một lần nữa Hattori và Conan lại đụng độ cùng giải mã bí ẩn của Kid và báu vật có 1 không hai. Kid với những trò phù thủy của mình lại biến mất trong quá trình truy đuổi. Một kẻ bí ẩn đã ra tay? Kẻ đó là ai? Kid có thực sự chết? Lâu đài Yokusuka có vẻ như là nơi giả câu đố về báu vật. Mọi người đã cùng lên thuyền tới nơi đó? Những nguy hiểm nào đang chờ đợi họ?!\nthêm",
+    "genre": [
+      "Hành Động",
+      "Hài Hước",
+      "Movie",
+      "Phiêu Lưu",
+      "Trinh Thám"
+    ],
+    "createdAt": "2025-10-11T12:57:56.176Z",
+    "updatedAt": "2025-10-11T13:06:51.588Z"
+  },
+  {
+    "id": "b763e00b-1a4b-41b4-a95a-f15e5f795f26",
+    "title": "Thám Tử Lừng Danh Conan Movie 04- Thủ Phạm Trong Đôi Mắt",
+    "year": 2000,
+    "poster": "https://motchillcr.fm/wp-content/uploads/2024/12/tham-tu-lung-danh-conan-4-thu-pham-trong-doi-mat-7909-thumb.webp",
+    "driveId": "1vWy5BOe1KpHt8ufdGoGJ687aBgYxeAWV",
+    "duration": "100 phút",
+    "category": "phim-le",
+    "desc": "Một vụ ám sát đã xảy ra trước mắt Conan. Nạn nhân là cảnh sát Narasawa Osamu hiện đang điều tra vụ án từ 1 năm trước. Quan sát thấy hung thủ cầm ô tay tay phải nên Conan suy luận ra hắn thuận tay trái. Ngay sau đó, vụ thứ 2 đã xảy ra. Người bị giết là cảnh sát Shiba Yoichiro bị bắn ở hầm gửi xe Midoridai. Dựa vào vỏ đạn thu ở hiện trường cảnh sát biết được hai cảnh sát bị giết cùng một khẩu súng. Liệu 2 vụ án này có liên quan đến nhau? Vụ án Narasawa và Shiba điều tra là gì? Thủ phạm vụ án 1 năm trước có liên quan đến 2 vụ án hiện tại không? Ai sẽ là mục tiêu tiếp theo của hắn?",
+    "genre": [
+      "Hành Động",
+      "Hài Hước",
+      "Movie",
+      "Phiêu Lưu",
+      "Trinh Thám"
+    ],
+    "createdAt": "2025-10-11T13:00:49.803Z",
+    "updatedAt": "2025-10-11T13:07:07.266Z"
+  },
+  {
+    "id": "6b32e147-34cd-42de-b895-627e5c66d69b",
+    "title": "Thám Tử Lừng Danh Conan Movie 05- Những Giây Cuối Cùng Tới Thiên Đường",
+    "year": 2001,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/DetectiveConanMovie5.jpg?raw=true",
+    "driveId": "16TfdaAXH98MyDm3VfOsY7F4FdcZYhO-4",
+    "duration": "100 phút",
+    "category": "phim-le",
+    "desc": "Edogawa Conan cùng Đội Thám Tử Nhí cố gắng làm sáng tỏ một loạt án mạng ghê rợn liên quan đến lễ khánh thành hai tòa nhà chọc trời tráng lệ.",
+    "genre": [
+      "Hành Động",
+      "Hài Hước",
+      "Movie",
+      "Phiêu Lưu",
+      "Trinh Thám"
+    ],
+    "createdAt": "2025-10-11T13:02:45.729Z",
+    "updatedAt": "2025-10-11T13:07:17.336Z"
   }
 ]
