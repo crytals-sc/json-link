@@ -478,5 +478,203 @@
     ],
     "createdAt": "2025-10-11T13:02:45.729Z",
     "updatedAt": "2025-10-11T13:07:17.336Z"
+  },
+  {
+    "id": "aa47dc12-726d-4589-92b9-5aadb0a9d305",
+    "title": "Thám Tử Lừng Danh Conan Movie 06- Bóng Ma Đường Baker",
+    "year": 2002,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/Case_Closed_Movie_5.jpg?raw=true",
+    "driveId": "1tWIve7RlXPMZ0jXHM9e3b3z0mMO1LbF4",
+    "duration": "107 phút",
+    "rating": 8.2,
+    "category": "phim-le",
+    "desc": "Hai nhà phát minh trò chơi ảo “Noah’s Ark” bị sát hại. Conan và các bạn tham gia vào thế giới ảo tái hiện London thời Sherlock Holmes để truy tìm hung thủ. Tại đây, họ phải đối đầu với vụ án hàng loạt và bí ẩn “Jack the Ripper”. Conan phải giải quyết vụ án trong cả thế giới ảo lẫn thực tế để cứu mọi người và ngăn chặn thảm họa.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Phiêu Lưu",
+      "Hồi Hộp"
+    ],
+    "createdAt": "2025-10-11T13:12:05.354Z",
+    "updatedAt": "2025-10-11T13:12:05.354Z"
+  },
+  {
+    "id": "6793dd4d-c183-4ae3-86fd-d697cdbec5d6",
+    "title": "Thám Tử Lừng Danh Conan Movie 07: Mê Cung Trong Thành Phố Cổ",
+    "year": 2003,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/DetectiveConanMovie7.jpg?raw=true",
+    "driveId": "10Ek7CifDV2nvAsrA4Yzi1ED7hjwTj64A",
+    "duration": "107 phút",
+    "rating": 8,
+    "category": "phim-le",
+    "desc": "Một vụ án sát thủ liên hoàn xảy ra liên quan đến những nhà sư ở Kyoto. Conan cùng Ran và nhóm bạn đến cố đô để tham gia lễ hội, nhưng lại vướng vào những bí ẩn xoay quanh các báu vật và quá khứ của Heiji. Trong khi điều tra, Ran gặp nguy hiểm, buộc Conan và Heiji phải hợp tác để giải mã mê cung cổ và đối đầu kẻ sát nhân.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Phiêu Lưu",
+      "Võ Thuật",
+      "Lãng Mạn"
+    ],
+    "createdAt": "2025-10-11T13:13:36.910Z",
+    "updatedAt": "2025-10-11T13:13:36.910Z"
+  },
+  {
+    "id": "f355518d-1aed-419f-a98a-f8039753147c",
+    "title": "Thám Tử Lừng Danh Conan Movie 08: Nhà Ảo Thuật Với Đôi Cánh Bạc",
+    "year": 2004,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/DetectiveConanMovie8.jpg?raw=true",
+    "driveId": "1WzILSc-Yf1qsvUDK81kVTdVb8ebimSOA",
+    "duration": "108 phút",
+    "rating": 7.9,
+    "category": "phim-le",
+    "desc": "Kaito Kid gửi thư thách thức đến một nữ diễn viên nổi tiếng để đánh cắp viên đá quý trong buổi biểu diễn. Conan nghi ngờ và tham gia bảo vệ. Trong chuyến bay riêng sau đó, máy bay bị tấn công và phi công mất khả năng điều khiển. Conan phải tìm ra hung thủ và tìm cách hạ cánh an toàn, đồng thời đối đầu Kaito Kid trong màn đấu trí trên bầu trời.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Phiêu Lưu",
+      "Hồi Hộp",
+      "Tội Phạm"
+    ],
+    "createdAt": "2025-10-11T13:15:08.270Z",
+    "updatedAt": "2025-10-11T13:15:08.270Z"
+  },
+  {
+    "id": "c459d590-52f6-46ef-8cce-f91b8de396ca",
+    "title": "Thám Tử Lừng Danh Conan Movie 09: Âm Mưu Trên Biển",
+    "year": 2005,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/DetectiveConanMovie9.jpg?raw=true",
+    "driveId": "1v_Yo79lSkyIuQImeOTJby1EUwAUYj9Kf",
+    "duration": "108 phút",
+    "rating": 7.7,
+    "category": "phim-le",
+    "desc": "Conan và bạn bè tham gia chuyến du lịch trên du thuyền hiện đại được xây dựng thay thế con tàu từng chìm trong thảm kịch. Một vụ giết người xảy ra liên quan đến quá khứ đen tối của con tàu cũ. Khi du thuyền bất ngờ bốc cháy và có nguy cơ chìm, Conan phải giải mã âm mưu trả thù, cứu mọi người và tìm ra kẻ đứng sau toàn bộ sự việc.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Phiêu Lưu",
+      "Hồi Hộp",
+      "Tội Phạm"
+    ],
+    "createdAt": "2025-10-11T13:17:06.049Z",
+    "updatedAt": "2025-10-11T13:17:06.049Z"
+  },
+  {
+    "id": "0b1cee99-dadc-4934-89f8-f8df51665a5f",
+    "title": "Thám Tử Lừng Danh Conan Movie 10: Lễ Cầu Hồn Của Thám Tử",
+    "year": 2006,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie10.jpg?raw=true",
+    "driveId": "1hqn3qExlVJXUnpmoxmlOeMqxeoHIGLrx",
+    "duration": "111 phút",
+    "rating": 8.1,
+    "category": "phim-le",
+    "desc": "Conan, Ran và nhóm bạn được một khách hàng bí ẩn mời đến công viên giải trí. Sau đó, Ran và Sonoko bị gắn bom và bị bắt làm con tin. Conan phải giải quyết một vụ án cũ liên quan đến thám tử để cứu họ. Cuộc điều tra kéo theo nhiều thám tử nổi tiếng khác cùng tham gia, tạo nên màn đối đầu căng thẳng giữa trí tuệ, âm mưu và sự thật.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Phiêu Lưu",
+      "Hồi Hộp",
+      "Tội Phạm"
+    ],
+    "createdAt": "2025-10-11T13:21:23.768Z",
+    "updatedAt": "2025-10-11T13:21:23.768Z"
+  },
+  {
+    "id": "6675a625-f63c-47c3-b5a2-83dbc5ef45af",
+    "title": "Thám Tử Lừng Danh Conan Movie 11: Kho Báu Dưới Đáy Đại Dương",
+    "year": 2007,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie11.webp?raw=true",
+    "driveId": "1xORWmzDuGT_i4fCNR7DSd5ClxCZ2GYpO",
+    "duration": "107 phút",
+    "rating": 7.6,
+    "category": "phim-le",
+    "desc": "Conan và nhóm bạn đến một hòn đảo du lịch nổi tiếng vì truyền thuyết kho báu cướp biển. Khi một thợ lặn bị tấn công và mất tích, Conan phát hiện bí ẩn liên quan đến hai nữ cướp biển huyền thoại. Trong lúc tìm kho báu dưới đáy biển, họ bị truy sát bởi những kẻ tham lam. Conan phải giải mã bản đồ kho báu và cứu mọi người trước khi thảm kịch xảy ra.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Phiêu Lưu",
+      "Phiêu Lưu Biển",
+      "Hồi Hộp"
+    ],
+    "createdAt": "2025-10-11T13:23:09.753Z",
+    "updatedAt": "2025-10-11T13:23:09.753Z"
+  },
+  {
+    "id": "3f1e6070-e0e7-4a5b-8bfd-4e7696f0f06f",
+    "title": "Thám Tử Lừng Danh Conan Movie 12: Tận Cùng Của Sự Sợ Hãi",
+    "year": 2008,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie12.webp?raw=true",
+    "driveId": "1ABdfpoja3p6LB_EzxXvQTk880C85-CAd",
+    "duration": "115 phút",
+    "rating": 7.8,
+    "category": "phim-le",
+    "desc": "Một buổi hòa nhạc hoành tráng quy tụ các nhạc công thiên tài. Trong quá trình chuẩn bị, hàng loạt vụ nổ và ám sát xảy ra, nhắm vào một nữ ca sĩ sở hữu thính giác tuyệt đối. Conan phải giải mã các giai điệu ẩn chứa manh mối, ngăn chặn kẻ đánh bom và cứu khán giả trước khi toàn bộ khán phòng phát nổ.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Hồi Hộp",
+      "Âm Nhạc",
+      "Tội Phạm"
+    ],
+    "createdAt": "2025-10-11T13:25:18.083Z",
+    "updatedAt": "2025-10-11T13:25:18.083Z"
+  },
+  {
+    "id": "330b854f-f226-4944-b7e2-b5669f5f1af3",
+    "title": "Thám Tử Lừng Danh Conan Movie 13: Truy Lùng Tổ Chức Áo Đen",
+    "year": 2009,
+    "poster": "https://upload.wikimedia.org/wikipedia/vi/9/9b/DetectiveConanMovie13.jpg",
+    "driveId": "1V4FZZ3lwo-3OINGbsZbWuAvFuB5Ef7Cr",
+    "duration": "111 phút",
+    "rating": 8.2,
+    "category": "phim-le",
+    "desc": "Một vụ án giết người hàng loạt xảy ra với các nạn nhân có vết sẹo kỳ lạ. Conan phát hiện dấu vết của Tổ Chức Áo Đen đứng sau chuỗi vụ án. Cuộc truy đuổi giữa cảnh sát, FBI và tổ chức tội phạm nguy hiểm nhất bắt đầu. Conan phải dò ra nội gián trong cảnh sát, giải mã các manh mối và đối mặt trực tiếp với Gin, Vermouth cùng những bí mật chết người.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Hồi Hộp",
+      "Tội Phạm",
+      "Tâm Lý"
+    ],
+    "createdAt": "2025-10-11T13:26:52.384Z",
+    "updatedAt": "2025-10-11T13:27:55.154Z"
+  },
+  {
+    "id": "20e0d222-8ffb-4452-ad29-3e8670ebdff6",
+    "title": "Thám Tử Lừng Danh Conan Movie 14: Con Tàu Biến Mất Giữa Trời Xanh",
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie14.webp?raw=true",
+    "driveId": "1_1B5V_G1kkOjuuys1JE-HRgYbc1J1iuj",
+    "duration": "102 phút",
+    "rating": 7.8,
+    "category": "phim-le",
+    "desc": "Một tổ chức khủng bố sinh học chiếm quyền điều khiển khí cầu sang trọng chở Conan, Ran và bạn bè. Chúng đe dọa phát tán virus chết người và đánh cắp viên ngọc “Lady Sky”. Kaito Kid cũng xuất hiện, khiến tình hình càng hỗn loạn. Conan phải vừa điều tra hung thủ thật sự, vừa tìm cách chặn thảm họa trên bầu trời và vạch trần âm mưu ẩn phía sau.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Phiêu Lưu",
+      "Hồi Hộp",
+      "Tội Phạm"
+    ],
+    "createdAt": "2025-10-11T13:29:25.603Z",
+    "updatedAt": "2025-10-11T13:29:25.603Z"
+  },
+  {
+    "id": "b6a46700-5f97-4259-8312-d4fd289829a7",
+    "title": "Thám Tử Lừng Danh Conan Movie 15: 15 Phút Tĩnh Lặng",
+    "year": 2011,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie15.jpg?raw=true",
+    "driveId": "1S62hunmz114rths5FsLViz3fHMEN5Uvn",
+    "duration": "109 phút",
+    "rating": 7.7,
+    "category": "phim-le",
+    "desc": "Một vụ nổ xảy ra tại tuyến đường tàu điện ngầm ngay sau bài phát biểu của Thống đốc Tokyo. Conan điều tra và lần theo dấu vết đến một ngôi làng vùng núi bị chôn vùi dưới tuyết. Bí mật từ quá khứ và một thảm kịch 8 năm trước dần lộ diện. Khi trận lở tuyết khổng lồ sắp ập đến, Conan chỉ có 15 phút để cứu mọi người và ngăn chặn âm mưu trả thù tàn khốc.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Hồi Hộp",
+      "Sinh Tồn",
+      "Thiên Tai"
+    ],
+    "createdAt": "2025-10-11T13:30:55.797Z",
+    "updatedAt": "2025-10-11T13:30:55.797Z"
   }
 ]
