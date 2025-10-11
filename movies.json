@@ -676,5 +676,65 @@
     ],
     "createdAt": "2025-10-11T13:30:55.797Z",
     "updatedAt": "2025-10-11T13:30:55.797Z"
+  },
+  {
+    "id": "2c088f22-4523-452f-8903-9191d225977f",
+    "title": "Thám Tử Lừng Danh Conan Movie 16: Tiền Đạo Thứ 11",
+    "year": 2012,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/Detective_Conan_Movie_16_poster.jpg?raw=true",
+    "driveId": "198oJhrCWLsE7Fjw2klPvpAyq3ZmcExb_",
+    "duration": "110 phút",
+    "rating": 7,
+    "category": "phim-le",
+    "desc": "Một vụ đánh bom xảy ra gần trụ sở cảnh sát, để lại câu đố bí ẩn liên quan đến bóng đá. Khi một sân vận động đông người trở thành mục tiêu tiếp theo, Conan phải giải mã thông điệp ẩn trong trận đấu và tìm ra kẻ đứng sau. Thời gian đếm ngược, chỉ một sai lầm nhỏ có thể gây ra thảm kịch kinh hoàng.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Thể Thao",
+      "Hồi Hộp",
+      "Tội Phạm"
+    ],
+    "createdAt": "2025-10-11T13:33:12.361Z",
+    "updatedAt": "2025-10-11T13:33:12.361Z"
+  },
+  {
+    "id": "57f09915-4a65-4752-ad6c-fa500e49dc10",
+    "title": "Thám Tử Lừng Danh Conan Movie 17: Con Mắt Bí Ẩn Ngoài Biển Xa",
+    "year": 2013,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie17.jpg?raw=true",
+    "driveId": "1MKKKhnjO88OS4qFrHJN9LplJxaclYnR0",
+    "duration": "110 phút",
+    "rating": 7.3,
+    "category": "phim-le",
+    "desc": "Conan cùng nhóm bạn tham quan tàu chiến Aegis của Lực lượng Phòng vệ Nhật Bản. Một xác chết trôi dạt vào tàu kéo theo vụ án gián điệp nghiêm trọng. Tổ chức bí ẩn đang tìm cách lấy cắp dữ liệu mật quân sự. Conan phải phối hợp với quân đội, truy tìm nội gián và ngăn chặn âm mưu khi nguy cơ chiến tranh cận kề.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Quân Đội",
+      "Hồi Hộp",
+      "Gián Điệp"
+    ],
+    "createdAt": "2025-10-11T13:35:58.229Z",
+    "updatedAt": "2025-10-11T13:35:58.229Z"
+  },
+  {
+    "id": "09d8c2cb-87c2-42eb-9041-d7e606acf1ed",
+    "title": "Thám Tử Lừng Danh Conan Movie 18: Sát Thủ Bắn Tỉa Không Tưởng",
+    "year": 2014,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie18.jpg?raw=true",
+    "driveId": "1xGzHaOjvv5h7vGIv3UM33PEJFc9M_VBu",
+    "duration": "110 phút",
+    "rating": 7.5,
+    "category": "phim-le",
+    "desc": "Một tay súng bắn tỉa bí ẩn tấn công từ khoảng cách không tưởng, khiến Tokyo rơi vào hoảng loạn. Conan và FBI vào cuộc điều tra, phát hiện vụ án liên quan đến những cựu lính thủy đánh bộ và một bí mật trong quá khứ. Khi Ran bị nhắm đến, Conan phải chạy đua với thời gian để tìm ra danh tính sát thủ và ngăn chặn một âm mưu lớn hơn phía sau những viên đạn.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Bắn Tỉa",
+      "Hồi Hộp",
+      "Tội Phạm"
+    ],
+    "createdAt": "2025-10-11T13:37:59.524Z",
+    "updatedAt": "2025-10-11T13:37:59.524Z"
   }
 ]
