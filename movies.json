@@ -736,5 +736,85 @@
     ],
     "createdAt": "2025-10-11T13:37:59.524Z",
     "updatedAt": "2025-10-11T13:37:59.524Z"
+  },
+  {
+    "id": "cad4cf1d-79df-42aa-a566-c5541b213200",
+    "title": "Thám Tử Lừng Danh Conan Movie 19: Hoa Hướng Dương Rực Lửa",
+    "year": 2015,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/%C3%81p_ph%C3%ADch_phim_Th%C3%A1m_t%E1%BB%AD_l%E1%BB%ABng_danh_Conan-_Hoa_h%C6%B0%E1%BB%9Bng_d%C6%B0%C6%A1ng_r%E1%BB%B1c_l%E1%BB%ADa.jpg?raw=true",
+    "driveId": "1cVkD4z8X61ALh6VCkJZ3OlFjHpKedHHq",
+    "duration": "112 phút",
+    "rating": 6.8,
+    "category": "phim-le",
+    "desc": "Một bức tranh “Hoa Hướng Dương” của Van Gogh được mua với giá kỷ lục. Conan nghi ngờ âm mưu khi một nhóm bí ẩn cố tình lấy lại bức tranh bằng mọi giá. Kaito Kid tuyên bố sẽ đánh cắp nó, khiến tình thế càng hỗn loạn. Trong chuỗi vụ tấn công và cháy nổ, Conan phải phân biệt thật – giả, giải mã quá khứ uẩn khúc liên quan đến kiệt tác nghệ thuật này.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Nghệ Thuật",
+      "Hồi Hộp",
+      "Tội Phạm"
+    ],
+    "createdAt": "2025-10-11T13:40:08.917Z",
+    "updatedAt": "2025-10-11T13:40:08.917Z"
+  },
+  {
+    "id": "73ca878a-ca6d-47d6-a988-e0236611411e",
+    "title": "Thám Tử Lừng Danh Conan Movie 20: Cơn Ác Mộng Đen Tối",
+    "year": 2016,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/%C3%81p_ph%C3%ADch_phim_Th%C3%A1m_t%E1%BB%AD_l%E1%BB%ABng_danh_Conan_th%E1%BB%A9_20.jpg?raw=true",
+    "driveId": "1gAmDvxhw9bl9HDxJRBN2vL8InZtdQ3oe",
+    "duration": "112 phút",
+    "rating": 7.8,
+    "category": "phim-le",
+    "desc": "Một điệp viên bí ẩn đột nhập vào trụ sở cảnh sát Nhật để đánh cắp dữ liệu mật về các gián điệp của nhiều quốc gia. Sau cuộc truy đuổi, người này mất trí nhớ và được nhóm Conan cứu giúp. Tuy nhiên, Tổ Chức Áo Đen truy sát không ngừng. Conan phải tìm ra thân phận thật của cô gái, đồng thời ngăn chặn âm mưu xóa sổ toàn bộ lực lượng tình báo quốc tế.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Gián Điệp",
+      "Hồi Hộp",
+      "Tội Phạm"
+    ],
+    "createdAt": "2025-10-11T13:41:37.181Z",
+    "updatedAt": "2025-10-11T13:41:37.181Z"
+  },
+  {
+    "id": "327bb538-0677-416a-85a0-e534321c8ae9",
+    "title": "Thám Tử Lừng Danh Conan Movie 21: Bản Tình Ca Màu Đỏ Thẫm",
+    "year": 2017,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie21.jpg?raw=true",
+    "driveId": "1ZhesGb1y3qGvk8Ic5x1CePE3MYWVXqX7",
+    "duration": "112 phút",
+    "rating": 6.7,
+    "category": "phim-le",
+    "desc": "Một vụ nổ lớn xảy ra tại đài truyền hình Osaka trong lúc ghi hình chương trình karuta. Heiji và một cô gái bí ẩn bị cuốn vào vụ án liên quan đến trò chơi bài truyền thống. Khi các cao thủ karuta lần lượt bị sát hại, Conan phải giải mã những câu thơ cổ, tìm ra động cơ trả thù và bảo vệ Ran trước khi kẻ thủ ra tay lần nữa.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Lãng Mạn",
+      "Văn Hóa Nhật Bản",
+      "Hồi Hộp"
+    ],
+    "createdAt": "2025-10-11T13:42:59.583Z",
+    "updatedAt": "2025-10-11T13:42:59.583Z"
+  },
+  {
+    "id": "f9c31e86-cb59-4e90-89f3-432b932da87d",
+    "title": "Thám Tử Lừng Danh Conan Movie 22: Kẻ Hành Pháp Zero",
+    "year": 2018,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie22.jpg?raw=true",
+    "driveId": "15c_3cyCR4uvSWqIa__d5JiVniL_cPYYr",
+    "duration": "110 phút",
+    "rating": 7,
+    "category": "phim-le",
+    "desc": "Một vụ nổ lớn xảy ra tại trung tâm hội nghị Tokyo ngay trước hội nghị thượng đỉnh. Tất cả chứng cứ đều hướng về Kogoro, khiến ông bị bắt giữ. Conan nghi ngờ có thế lực thao túng phía sau, liên quan đến lực lượng an ninh Zero do Amuro chỉ huy. Cuộc đối đầu giữa công lý, pháp luật và bí mật quốc gia khiến Conan phải tìm ra sự thật trước khi mọi thứ vượt ngoài tầm kiểm soát.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Pháp Luật",
+      "Hồi Hộp",
+      "Chính Trị"
+    ],
+    "createdAt": "2025-10-11T13:44:27.047Z",
+    "updatedAt": "2025-10-11T13:44:27.047Z"
   }
 ]
