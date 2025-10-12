@@ -816,5 +816,25 @@
     ],
     "createdAt": "2025-10-11T13:44:27.047Z",
     "updatedAt": "2025-10-11T13:44:27.047Z"
+  },
+  {
+    "id": "af1e86e6-5857-47cb-8b54-e6f42614c7db",
+    "title": "Thám Tử Lừng Danh Conan Movie 23: Cú Đấm Sapphire Xanh",
+    "year": 2019,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie23.jpg?raw=true",
+    "driveId": "121JjYrjbYyGGgQMWwii4FWPLSb4Bq9E4",
+    "duration": "110 phút",
+    "rating": 6.8,
+    "category": "phim-le",
+    "desc": "Một viên đá quý “Sapphire Xanh” bị đánh cắp tại Singapore. Kaito Kid bị tình nghi, nhưng sự xuất hiện của Makoto – cao thủ võ thuật – khiến mọi chuyện trở nên phức tạp. Conan phải giả dạng để điều tra trong một giải đấu võ thuật, đối mặt với các vụ giết người bí ẩn và âm mưu đằng sau viên đá. Cuộc đối đầu giữa trí tuệ, sức mạnh và tham vọng bắt đầu.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Võ Thuật",
+      "Tội Phạm",
+      "Hồi Hộp"
+    ],
+    "createdAt": "2025-10-12T03:20:19.018Z",
+    "updatedAt": "2025-10-12T03:21:45.435Z"
   }
 ]
