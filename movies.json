@@ -856,5 +856,45 @@
     ],
     "createdAt": "2025-10-12T03:23:28.193Z",
     "updatedAt": "2025-10-12T03:23:28.193Z"
+  },
+  {
+    "id": "4f48b386-bc31-4018-9932-d03b5ecc03e4",
+    "title": "Thám Tử Lừng Danh Conan Movie 25: Nàng Dâu Halloween",
+    "year": 2022,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie25.jpg?raw=true",
+    "driveId": "1DExHgUcZSPBo7xNHwajz133RyjO_J4TY",
+    "duration": "110 phút",
+    "rating": 6.9,
+    "category": "phim-le",
+    "desc": "Trong lễ cưới của Takagi và Sato, một kẻ tấn công xuất hiện khiến buổi lễ hỗn loạn. Cùng lúc đó, một tội phạm vượt ngục truy đuổi Amuro, kéo theo vụ án liên quan đến một vụ nổ bí ẩn ở Shibuya nhiều năm trước. Khi quá khứ quay lại với những bí mật chết người, Conan phải hợp tác với đội cảnh sát và Amuro để giải cứu mọi người trước khi “màn hóa trang Halloween” trở thành thảm kịch thật sự.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Cảnh Sát",
+      "Hồi Hộp",
+      "Tội Phạm"
+    ],
+    "createdAt": "2025-10-12T03:24:46.168Z",
+    "updatedAt": "2025-10-12T03:24:46.168Z"
+  },
+  {
+    "id": "e0f6d5a4-175b-45ff-846c-bc017d9fde40",
+    "title": "Thám Tử Lừng Danh Conan Movie 26: Tàu Ngầm Sắt Màu Đen",
+    "year": 2023,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie26.webp?raw=true",
+    "driveId": "1VQi05DgxEkJ9CdHISPXSYyljMvvIUlyO",
+    "duration": "109 phút",
+    "rating": 7.1,
+    "category": "phim-le",
+    "desc": "Một cơ sở nghiên cứu dưới biển sâu phát triển hệ thống giám sát toàn cầu bằng AI. Tổ Chức Áo Đen xâm nhập để chiếm quyền điều khiển và truy tìm dữ liệu nhận diện của các điệp viên. Haibara trở thành mục tiêu. Conan phải lao xuống đáy biển, đấu trí với tổ chức nguy hiểm nhất và ngăn chặn thảm họa công nghệ đe dọa an ninh thế giới.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Công Nghệ",
+      "Gián Điệp",
+      "Hồi Hộp"
+    ],
+    "createdAt": "2025-10-12T03:25:50.651Z",
+    "updatedAt": "2025-10-12T03:25:56.387Z"
   }
 ]
