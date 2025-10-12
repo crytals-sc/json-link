@@ -836,5 +836,25 @@
     ],
     "createdAt": "2025-10-12T03:20:19.018Z",
     "updatedAt": "2025-10-12T03:21:45.435Z"
+  },
+  {
+    "id": "a20e3959-c67c-4d8a-891e-835c52e7aa6f",
+    "title": "Thám Tử Lừng Danh Conan Movie 24: Viên Đạn Đỏ",
+    "year": 2021,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie24.jpg?raw=true",
+    "driveId": "1RuZHUn44E0-Q7VJD6PBX2RLPJAwSdqDm",
+    "duration": "110 phút",
+    "rating": 6.4,
+    "category": "phim-le",
+    "desc": "Nhật Bản chuẩn bị khai trương tuyến tàu siêu tốc Hyper Linear trong sự kiện thể thao toàn cầu. Tuy nhiên, hàng loạt vụ bắt cóc các CEO xảy ra giống hệt một vụ án 15 năm trước tại Mỹ. Conan phát hiện âm mưu đằng sau công nghệ tốc độ cao và quá khứ của FBI. Khi viên đạn đỏ lao đi với vận tốc 1000 km/h, cậu phải ngăn chặn thảm họa trước khi mọi thứ vượt khỏi tầm kiểm soát.",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Công Nghệ",
+      "Hồi Hộp",
+      "Tội Phạm"
+    ],
+    "createdAt": "2025-10-12T03:23:28.193Z",
+    "updatedAt": "2025-10-12T03:23:28.193Z"
   }
 ]
