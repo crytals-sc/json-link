@@ -322,14 +322,14 @@
     "driveId": "1s8AMryb9EQkSWDqQeZVB7KIF5DvB5yRb",
     "duration": "155 phút",
     "rating": 9.8,
-    "category": "phim-hoat-hinh",
+    "category": "phim-le",
     "desc": "Bộ phim đầu tiên trong bộ ba phim Thanh Gươm Diệt Quỷ: Vô Hạn Thành. Đây là phần bắt đầu cho trận chiến cuối cùng giữa Sát Quỷ Đoàn cùng Muzan và bè lũ quỷ tại Vô Hạn Thành. Bộ phim quy tụ gần như toàn bộ Trụ Cột & các nhân vật chính đối đầu nhóm Thượng Huyền mạnh nhất của Muzan; cùng bối cảnh Vô Hạn Thành phức tạp, kiến trúc đảo lộn và di chuyển liên tục hứa hẹn mang đến những trận chiến đấu đầy mãn nhãn.",
     "genre": [
       "Hành Động",
       "Hoạt Hình"
     ],
     "createdAt": "2025-10-11T04:00:41.434Z",
-    "updatedAt": "2025-10-11T04:18:26.249Z"
+    "updatedAt": "2025-10-12T03:30:23.995Z"
   },
   {
     "id": "e088da11-86e5-4326-a7b9-8146a45866d0",
@@ -896,5 +896,61 @@
     ],
     "createdAt": "2025-10-12T03:25:50.651Z",
     "updatedAt": "2025-10-12T03:25:56.387Z"
+  },
+  {
+    "id": "a1c8548c-fd37-442b-9865-b5f5c21a8c62",
+    "title": "Thám Tử Lừng Danh Conan Movie 27: Ngôi Sao 5 Cánh 1 Triệu Đô",
+    "year": 2024,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/Conan_Movie_27.jpg?raw=true",
+    "driveId": "1j0F2sIYD_2TiVLPze2BCis_tgiShE46-",
+    "duration": "111 phút",
+    "rating": 6.7,
+    "category": "phim-le",
+    "desc": "Kaito Kid nhắm đến ngôi sao năm cánh trị giá một triệu đô tại Hakodate. Tuy nhiên, báu vật lại liên quan đến bí ẩn lịch sử và một tổ chức tội phạm nguy hiểm. Conan, Heiji và Kid cùng bị cuốn vào cuộc rượt đuổi giữa các phe phái, nơi quá khứ, kho báu và sự phản bội giao nhau. Ai sẽ giành được ngôi sao năm cánh trước khi tất cả sụp đổ?",
+    "genre": [
+      "Hành Động",
+      "Trinh Thám",
+      "Tội Phạm",
+      "Hồi Hộp",
+      "Phiêu Lưu"
+    ],
+    "createdAt": "2025-10-12T03:27:02.075Z",
+    "updatedAt": "2025-10-12T03:27:02.075Z"
+  },
+  {
+    "id": "2581318d-fe47-4da3-8884-fd4b181457d9",
+    "title": "Thám Tử Lừng Danh Conan: Chứng Cứ Đỏ",
+    "year": 2021,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/Th%C3%A1m_t%E1%BB%AD_l%E1%BB%ABng_danh_Conan_Ch%E1%BB%A9ng_c%E1%BB%A9_%C4%91%E1%BB%8F_poster.jpg?raw=true",
+    "driveId": "1zP2uWGkRaUQeNiA2HoceM9rtxAEDPnQs",
+    "duration": "94 phút",
+    "rating": 6.2,
+    "category": "phim-le",
+    "desc": "Bộ phim tổng hợp các phân cảnh liên quan đến gia đình Akai trong series Conan, làm rõ quá khứ của Shuichi Akai, Shukichi, Masumi và Mary. Những manh mối quan trọng hé lộ bí mật gia đình cùng mối liên hệ với Tổ Chức Áo Đen. Đây là bước đệm quan trọng dẫn đến các sự kiện trong Movie 24 “Viên Đạn Đỏ”.",
+    "genre": [
+      "Trinh Thám",
+      "Tổng Hợp",
+      "Hồi Hộp"
+    ],
+    "createdAt": "2025-10-12T03:28:14.429Z",
+    "updatedAt": "2025-10-12T03:28:14.429Z"
+  },
+  {
+    "id": "6cfce2d2-1465-4d42-b354-7e8436425a6d",
+    "title": "Thám Tử Lừng Danh Conan: Giờ Trà Của Zero",
+    "year": 2022,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie_giotracuazero.jpg?raw=true",
+    "driveId": "1rQs_7XyVWImBDqmiz0h4jHrrBHJiOMG7",
+    "duration": "36 phút",
+    "rating": 6.7,
+    "category": "phim-le",
+    "desc": "Spin-off xoay quanh cuộc sống hằng ngày của Amuro Tooru (Bourbon). Khi không làm cảnh sát, điệp viên hay nhân viên quán cà phê, anh xử lý các tình huống đời thường với phong cách riêng. Bộ phim hé lộ góc nhìn nhẹ nhàng nhưng thú vị về nhân vật quan trọng trong Conan.",
+    "genre": [
+      "Đời Thường",
+      "Hài Hước",
+      "Trinh Thám"
+    ],
+    "createdAt": "2025-10-12T03:29:51.858Z",
+    "updatedAt": "2025-10-12T03:29:51.858Z"
   }
 ]
