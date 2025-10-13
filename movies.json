@@ -89,22 +89,6 @@
     "director": ""
   },
   {
-    "id": "1",
-    "title": "Nhiệm Vụ Bất Khả Thi - Nghiệp Báo Cuối Cùng",
-    "posterUrl": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/m/i/mi8_poster_470x700_1.jpg",
-    "driveUrl": "1N-lJ3dTqUEjbTeOp1vb2cdDpGPDyqDlQ",
-    "episodes": [],
-    "year": 2025,
-    "summary": "Cuộc đời là tất thảy những lựa chọn. Tom Cruise thủ vai Ethan Hunt trở lại trong Nhiệm Vụ: Bất Khả Thi – Nghiệp Báo Cuối Cùng.",
-    "genre": [
-      "Hành Động",
-      "Tâm Lý",
-      "Giật Gân"
-    ],
-    "actors": [],
-    "director": ""
-  },
-  {
     "id": "d68fc39b-7041-4c97-9327-277d71f1ec76",
     "title": "Ngự Trù của Bạo Chúa",
     "posterUrl": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/ngu-tru-cua-bao-chua.webp",
@@ -258,6 +242,40 @@
     "director": ""
   },
   {
+    "id": "1",
+    "title": "Nhiệm Vụ Bất Khả Thi - Nghiệp Báo Cuối Cùng",
+    "posterUrl": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/m/i/mi8_poster_470x700_1.jpg",
+    "driveUrl": "1N-lJ3dTqUEjbTeOp1vb2cdDpGPDyqDlQ",
+    "episodes": [],
+    "year": 2025,
+    "summary": "Cuộc đời là tất thảy những lựa chọn. Tom Cruise thủ vai Ethan Hunt trở lại trong Nhiệm Vụ: Bất Khả Thi – Nghiệp Báo Cuối Cùng.",
+    "genre": [
+      "Hành Động",
+      "Tâm Lý",
+      "Giật Gân"
+    ],
+    "actors": [],
+    "director": ""
+  },
+  {
+    "id": "cc5a13d5-8ab4-422c-82c8-fad4cb1a9eec",
+    "title": "Bí Kíp Luyện Rồng (Live Action) - Tập Full",
+    "posterUrl": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/bi-kip-luyen-rong-how-to-train-your-dragon.webp",
+    "driveUrl": "1ztYwMCudQ0ahC894LG_l2PE-z7nli6h_",
+    "episodes": [],
+    "year": 2025,
+    "summary": "Câu chuyện về một chàng trai trẻ với ước mơ trở thành thợ săn rồng, nhưng định mệnh lại đưa đẩy anh đến tình bạn bất ngờ với một chú rồng. Giống như bộ phim hay gốc từ năm 2010, Bí Kíp Luyện Rồng phiên bản live-action lần này diễn ra trên Đảo Berk, nơi người Viking và rồng đã là kẻ thù không đội trời chung trong nhiều thế hệ. Nhưng khi Hiccup (Mason Thames) – con trai của Tù trưởng Stoick the Vast đi ngược lại truyền thống hàng thế kỷ để kết bạn với Toothless – một con rồng Night Fury, chính giây phút đó anh ấy đã phá vỡ quy tắc vốn có của cộng đồng và mở ra sự căng thẳng tột cùng cho cả người Viking và rồng.",
+    "genre": [
+      "Chính kịch",
+      "Gia Đình",
+      "Hành Động",
+      "Tâm Lý",
+      "Viễn Tưởng"
+    ],
+    "actors": [],
+    "director": ""
+  },
+  {
     "id": "7122ae95-d62b-4877-96f0-c1618815c8f0",
     "title": "Kẻ Vô Danh 2",
     "posterUrl": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/nb2_poolposter_470x700.jpg",
@@ -269,6 +287,21 @@
       "Hành Động",
       "Tình Cảm",
       "Giật Gân"
+    ],
+    "actors": [],
+    "director": ""
+  },
+  {
+    "id": "e088da11-86e5-4326-a7b9-8146a45866d0",
+    "title": "Mật Vụ Phụ Hồ",
+    "posterUrl": "https://github.com/crytals-sc/json-link/blob/img/mat-vu-phu-ho-500_1742357908078.jpg?raw=true",
+    "driveUrl": "1GP79oRqfxUbyP8cbSQ_ZBtdjOFH36VyN",
+    "episodes": [],
+    "year": 2025,
+    "summary": "Levon Cade - cựu biệt kích tinh nhuệ thuộc lực lượng Thủy quân Lục chiến Hoàng gia Anh. Sau khi nghỉ hưu, anh sống cuộc đời yên bình là một công nhân xây dựng tại Chicago (Mỹ). Levon có mối quan hệ rất tốt với gia đình ông chủ Joe Garcia (Michael Peña). Một ngày nọ cô con gái tuổi teen Jenny (Arianna Rivas) của Joe bị bắt cóc khiến chàng cựu quân nhân phải sử dụng lại các kỹ năng giết chóc của mình để giúp đỡ.",
+    "genre": [
+      "Hành Động",
+      "Ly Kỳ"
     ],
     "actors": [],
     "director": ""
@@ -298,24 +331,6 @@
       "Drama",
       "Detective",
       "Action"
-    ],
-    "actors": [],
-    "director": ""
-  },
-  {
-    "id": "cc5a13d5-8ab4-422c-82c8-fad4cb1a9eec",
-    "title": "Bí Kíp Luyện Rồng (Live Action) - Tập Full",
-    "posterUrl": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/bi-kip-luyen-rong-how-to-train-your-dragon.webp",
-    "driveUrl": "1ztYwMCudQ0ahC894LG_l2PE-z7nli6h_",
-    "episodes": [],
-    "year": 2025,
-    "summary": "Câu chuyện về một chàng trai trẻ với ước mơ trở thành thợ săn rồng, nhưng định mệnh lại đưa đẩy anh đến tình bạn bất ngờ với một chú rồng. Giống như bộ phim hay gốc từ năm 2010, Bí Kíp Luyện Rồng phiên bản live-action lần này diễn ra trên Đảo Berk, nơi người Viking và rồng đã là kẻ thù không đội trời chung trong nhiều thế hệ. Nhưng khi Hiccup (Mason Thames) – con trai của Tù trưởng Stoick the Vast đi ngược lại truyền thống hàng thế kỷ để kết bạn với Toothless – một con rồng Night Fury, chính giây phút đó anh ấy đã phá vỡ quy tắc vốn có của cộng đồng và mở ra sự căng thẳng tột cùng cho cả người Viking và rồng.",
-    "genre": [
-      "Chính kịch",
-      "Gia Đình",
-      "Hành Động",
-      "Tâm Lý",
-      "Viễn Tưởng"
     ],
     "actors": [],
     "director": ""
@@ -364,21 +379,6 @@
       "Gia Đình",
       "Hình Sự",
       "Phiêu Lưu"
-    ],
-    "actors": [],
-    "director": ""
-  },
-  {
-    "id": "e088da11-86e5-4326-a7b9-8146a45866d0",
-    "title": "Mật Vụ Phụ Hồ",
-    "posterUrl": "https://github.com/crytals-sc/json-link/blob/img/mat-vu-phu-ho-500_1742357908078.jpg?raw=true",
-    "driveUrl": "1GP79oRqfxUbyP8cbSQ_ZBtdjOFH36VyN",
-    "episodes": [],
-    "year": 2025,
-    "summary": "Levon Cade - cựu biệt kích tinh nhuệ thuộc lực lượng Thủy quân Lục chiến Hoàng gia Anh. Sau khi nghỉ hưu, anh sống cuộc đời yên bình là một công nhân xây dựng tại Chicago (Mỹ). Levon có mối quan hệ rất tốt với gia đình ông chủ Joe Garcia (Michael Peña). Một ngày nọ cô con gái tuổi teen Jenny (Arianna Rivas) của Joe bị bắt cóc khiến chàng cựu quân nhân phải sử dụng lại các kỹ năng giết chóc của mình để giúp đỡ.",
-    "genre": [
-      "Hành Động",
-      "Ly Kỳ"
     ],
     "actors": [],
     "director": ""
