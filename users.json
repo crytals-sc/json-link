@@ -1,3 +1,10 @@
 {
-  "authorized": []
+  "authorized": [
+    {
+      "email": "hm2635518@gmail.com",
+      "name": "New User",
+      "picture": "",
+      "role": "editor"
+    }
+  ]
 }
