@@ -1,0 +1,86 @@
+{
+  "galleries": [
+    {
+      "id": "section-1",
+      "title": "Monochrome Dreams",
+      "description": "Exploring the world through a lens of black and white, where light and shadow dance in a timeless ballet.",
+      "layout": "single",
+      "photos": [
+        {
+          "id": "p1-1",
+          "url": "https://picsum.photos/id/10/1600/900",
+          "alt": "A grayscale shot of a path"
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "Urban Geometry",
+      "description": "Finding beauty in the concrete jungle. Lines, curves, and reflections that define the cityscape.",
+      "layout": "double",
+      "photos": [
+        {
+          "id": "p2-1",
+          "url": "https://picsum.photos/id/1015/800/1200",
+          "alt": "A modern building with sharp angles"
+        },
+        {
+          "id": "p2-2",
+          "url": "https://picsum.photos/id/102/800/1200",
+          "alt": "Stairs going down into a subway"
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "Nature's Palette",
+      "description": "A collection of moments where the vibrant colors of the natural world create breathtaking canvases.",
+      "layout": "triple",
+      "photos": [
+        {
+          "id": "p3-1",
+          "url": "https://picsum.photos/id/1018/800/600",
+          "alt": "A vivid sunset over a lake"
+        },
+        {
+          "id": "p3-2",
+          "url": "https://picsum.photos/id/103/800/600",
+          "alt": "A field of bright red flowers"
+        },
+        {
+          "id": "p3-3",
+          "url": "https://picsum.photos/id/1043/800/600",
+          "alt": "A bright green forest path"
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "Whispers of the Coast",
+      "description": "The raw power and serene beauty of the ocean, captured in fleeting moments of spray and calm.",
+      "layout": "quad",
+      "photos": [
+        {
+          "id": "p4-1",
+          "url": "https://picsum.photos/id/106/600/600",
+          "alt": "Coastal rocks with waves crashing"
+        },
+        {
+          "id": "p4-2",
+          "url": "https://picsum.photos/id/1050/600/600",
+          "alt": "A calm beach at sunrise"
+        },
+        {
+          "id": "p4-3",
+          "url": "https://picsum.photos/id/1051/600/600",
+          "alt": "A lighthouse on a cliff"
+        },
+        {
+          "id": "p4-4",
+          "url": "https://picsum.photos/id/1052/600/600",
+          "alt": "A pier extending into the sea"
+        }
+      ]
+    }
+  ]
+}
