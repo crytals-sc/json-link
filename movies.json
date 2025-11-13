@@ -3,7 +3,7 @@
     "id": "3862e04f-081a-4511-bd94-6ae43fd5bd9a",
     "title": "Hoán Đổi Trái Tim",
     "year": 2025,
-    "poster": "https://image-cdn.motchilltv.mx/images/20250815/hoan-doi-trai-tim.webp",
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/hoandoitraitim.png",
     "driveId": "",
     "duration": "51 phút",
     "category": "phim-bo",
@@ -64,7 +64,7 @@
       }
     ],
     "createdAt": "2025-10-09T15:35:29.545Z",
-    "updatedAt": "2025-10-11T04:22:53.784Z",
+    "updatedAt": "2025-11-13T05:31:18.513Z",
     "rating": 8.7
   },
   {
@@ -157,7 +157,7 @@
     "id": "3ea3eba8-0bf3-48ef-8e55-b2fa4739507c",
     "title": "Yến Ngộ Vĩnh An",
     "year": 2025,
-    "poster": "https://image-cdn.motchilltv.mx/images/20251004/yen-ngo-vinh-an.webp",
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/yen-ngo-vinh-an.webp",
     "driveId": "",
     "duration": "45 phút",
     "rating": 8.4,
@@ -193,7 +193,7 @@
       }
     ],
     "createdAt": "2025-10-10T03:22:00.459Z",
-    "updatedAt": "2025-10-11T04:22:16.195Z"
+    "updatedAt": "2025-11-13T05:32:32.616Z"
   },
   {
     "id": "7122ae95-d62b-4877-96f0-c1618815c8f0",
