@@ -1,0 +1,2 @@
+EX.exe
+Pause

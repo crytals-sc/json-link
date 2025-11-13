@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/assets/favicon-C09Xwo_-.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="EduNext – nền tảng giáo dục số của FPT, đồng hành kiến tạo xã hội học tập, đổi mới quản lý đào tạo và trải nghiệm học tập." />
+
+    <!-- <link rel="manifest" href="/manifest.json" /> -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/css/line-awesome.min.css" 
+      integrity="sha512-vebUliqxrVkBy3gucMhClmyQP9On/HAWQdKDXRaAlb/FKuTbxkjPKUyqVOxAcGwFDka79eTF+YXwfke1h3/wfg==" 
+      crossorigin="anonymous" referrerpolicy="no-referrer" rel="stylesheet" 
+     nonce="5bca790f420740845370be724dae6044"/>
+    
+    <!-- Load CSS first -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" 
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" 
+      crossorigin="anonymous" type="text/css" rel="stylesheet" 
+     nonce="5bca790f420740845370be724dae6044"/>
+
+    <link 
+      rel="stylesheet" 
+      href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css" 
+      integrity="sha384-5TcZemv2l/9On385z///+d7MSYlvIEw9FuZTIdZ14vJLqWphw7e7ZPuOiCHJcFCP" crossorigin="anonymous"
+     nonce="5bca790f420740845370be724dae6044"/>
+    
+    <!-- React -->
+    <!-- <script src="https://unpkg.com/jszip@3.10.1/lib/index.js" crossorigin></script> -->
+    <script src="https://unpkg.com/moment@2.29.4/min/moment.min.js" crossorigin nonce="5bca790f420740845370be724dae6044"></script>
+    <script src="https://unpkg.com/react@18.3.1/umd/react.production.min.js" crossorigin nonce="5bca790f420740845370be724dae6044"></script>
+    <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js" crossorigin nonce="5bca790f420740845370be724dae6044"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.9.0/axios.min.js" crossorigin="anonymous"
+      integrity="sha512-FPlUpimug7gt7Hn7swE8N2pHw/+oQMq/+R/hH/2hZ43VOQ+Kjh25rQzuLyPz7aUWKlRpI7wXbY6+U3oFPGjPOA=="  referrerpolicy="no-referrer" nonce="5bca790f420740845370be724dae6044"></script>
+    
+
+    <!-- Load DOMPurify first to ensure it's available for TrustedTypes policy -->
+    <script 
+      src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.0/purify.min.js" 
+      integrity="sha384-0Olea29UkyQZfNulDPUf5MshXT3rXNrDqk+TXn1sY6UoVDiqIfEERRKn8oMgO9eF" crossorigin="anonymous" nonce="5bca790f420740845370be724dae6044">
+    </script>
+
+    <script src="https://www.google.com/recaptcha/api.js" async defer nonce="5bca790f420740845370be724dae6044"></script>
+
+    <!-- TrustedTypes policy setup script -->
+    <script nonce="5bca790f420740845370be724dae6044">
+      if (window.trustedTypes && window.trustedTypes.createPolicy) {
+        window.trustedTypes.createPolicy('default', {
+          createHTML: (string) => DOMPurify.sanitize(string, {
+            RETURN_TRUSTED_TYPE: true
+          }),
+          createScriptURL(url) {
+            console.log("Url: ", url);
+            const parsed = new URL(url, document.baseURI);
+            const scriptOrigins = [
+              "https://google.com.vn",
+              "https://www.google.com",
+              "https://accounts.google.com",
+              "https://www.gstatic.com", "https://cloudflare.com", "https://unpkg.com",
+              "https://cdn.fpt.edu.vn",
+            ];
+            console.log("Origin: ", parsed.origin);
+            if (scriptOrigins.includes(parsed.origin)) {
+              return url;
+            }
+            console.log(`error-url: ${url}`);
+            throw new TypeError(`error-url: ${url}`);
+          },
+          createScript: script => script
+        });
+      }
+    </script>
+
+    <title>LOADING SYSTEMS EDUNEXT LITE</title>
+    <meta property="csp-nonce" nonce="5bca790f420740845370be724dae6044">
+    <script type="module" crossorigin src="/assets/index-CtxEdyEj.js" nonce="5bca790f420740845370be724dae6044"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor_katex-CH1cqRQe.js" nonce="5bca790f420740845370be724dae6044">
+    <link rel="modulepreload" crossorigin href="/assets/vendor_d3-C38495VE.js" nonce="5bca790f420740845370be724dae6044">
+    <link rel="modulepreload" crossorigin href="/assets/vendor_lodash-BBf_d76R.js" nonce="5bca790f420740845370be724dae6044">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-others-CT0VmWe4.js" nonce="5bca790f420740845370be724dae6044">
+    <link rel="modulepreload" crossorigin href="/assets/vendor_cryptojs-hnWTET_l.js" nonce="5bca790f420740845370be724dae6044">
+    <link rel="modulepreload" crossorigin href="/assets/vendor_xlsx-DMV0o3FU.js" nonce="5bca790f420740845370be724dae6044">
+    <link rel="modulepreload" crossorigin href="/assets/vendor_redux-CK3-q9X7.js" nonce="5bca790f420740845370be724dae6044">
+    <link rel="modulepreload" crossorigin href="/assets/vendor_mui-B770audV.js" nonce="5bca790f420740845370be724dae6044">
+    <link rel="modulepreload" crossorigin href="/assets/vendor_mdeditor-C9RZDYgr.js" nonce="5bca790f420740845370be724dae6044">
+    <link rel="modulepreload" crossorigin href="/assets/vendor_azure-CkbOownC.js" nonce="5bca790f420740845370be724dae6044">
+    <link rel="modulepreload" crossorigin href="/assets/vendor_googlecharts-Cox_0Mg5.js" nonce="5bca790f420740845370be724dae6044">
+    <link rel="stylesheet" crossorigin href="/assets/vendor-others-DhR_GE84.css" nonce="5bca790f420740845370be724dae6044">
+    <link rel="stylesheet" crossorigin href="/assets/vendor_mdeditor-ot3m5uH3.css" nonce="5bca790f420740845370be724dae6044">
+    <link rel="stylesheet" crossorigin href="/assets/index-Bfr-I0GX.css" nonce="5bca790f420740845370be724dae6044">
+  </head>
+
+  <body>
+    <div id="root"></div>
+
+    <!-- Main scripts at the end of body to avoid blocking page rendering -->
+    <script nonce="5bca790f420740845370be724dae6044">window.require = () => {}</script>
+    <script nonce="5bca790f420740845370be724dae6044">
+      window.global = window;
+      var exports = {};
+    </script>
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" nonce="5bca790f420740845370be724dae6044" data-cf-beacon='{"version":"2024.11.0","token":"56c6dd7e4ecf4947aa540f48289e45af","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
