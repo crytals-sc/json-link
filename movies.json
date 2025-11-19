@@ -1006,5 +1006,52 @@
     ],
     "createdAt": "2025-10-21T12:16:10.292Z",
     "updatedAt": "2025-10-21T12:16:10.292Z"
+  },
+  {
+    "id": "3bb86e05-d4d5-4ada-ac8a-1ff7807268a7",
+    "title": "365 Days (Part1)",
+    "year": 2020,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/365days_part1.webp",
+    "driveId": "14yjjHIF9v__SK90AlqdF-qXeAjm3S2bo",
+    "duration": "115 phút",
+    "category": "phim-le",
+    "desc": "",
+    "genre": [
+      "Tình Cảm",
+      "Chính Kịch"
+    ],
+    "createdAt": "2025-11-19T06:59:58.704Z",
+    "updatedAt": "2025-11-19T07:03:27.036Z"
+  },
+  {
+    "id": "7fdd1a33-b91d-46dc-be51-0d9625d52f68",
+    "title": "365 Days (Part2)",
+    "year": 2022,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/365days_part2.jpg",
+    "driveId": "1F5-FR4_exuqfqTfE14_k7-fZtVz6i_DU",
+    "duration": "111 phút",
+    "category": "phim-le",
+    "desc": "",
+    "genre": [
+      "Tâm Lý"
+    ],
+    "createdAt": "2025-11-19T07:00:47.447Z",
+    "updatedAt": "2025-11-19T07:02:31.461Z"
+  },
+  {
+    "id": "67b0edfd-7d52-4839-8d93-56804ff23e0e",
+    "title": "365 Days (Part3)",
+    "year": 2022,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/365days_part3.jpg",
+    "driveId": "1Vu1ObHNhPXQhYF5eSMMpmBnZ869WgUlb",
+    "duration": "110 phút",
+    "category": "phim-le",
+    "desc": "",
+    "genre": [
+      "Tâm Lý",
+      "Chính Kịch"
+    ],
+    "createdAt": "2025-11-19T07:01:37.800Z",
+    "updatedAt": "2025-11-19T07:04:28.450Z"
   }
 ]
