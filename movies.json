@@ -1071,5 +1071,233 @@
     ],
     "createdAt": "2025-12-10T15:52:54.752Z",
     "updatedAt": "2025-12-10T15:52:54.753Z"
+  },
+  {
+    "id": "1f926b60-f4d0-4614-a0f6-c5a72be4d291",
+    "title": "Gã Hề Ma Quái: Chào Mừng Đến Derry",
+    "year": 2025,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/ga-he-ma-quai-chao-mung-den-derry-it-chao-mung-toi-derry-24266-poster.webp",
+    "driveId": "1sTECiLWB6wcF17OT98ZGiYb8w2ktSqaX",
+    "duration": "56 phút",
+    "rating": 4.3,
+    "category": "phim-le",
+    "desc": "Thứ chờ đợi nhóm bạn trẻ ở Derry không chỉ là góc phố nhộn nhịp hay công viên vui chơi mà là....Gã Hề.",
+    "genre": [
+      "Kinh Dị",
+      "Viễn Tưởng",
+      "Trinh Thám"
+    ],
+    "createdAt": "2025-12-10T16:50:03.874Z",
+    "updatedAt": "2025-12-10T16:50:33.364Z"
+  },
+  {
+    "id": "213b5ba7-cc92-493d-92b7-485f7edb1d14",
+    "title": "Bà Trùm Tạp Chí Người Lớn",
+    "year": 2025,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/MrsPlaymen-Banniere.jpg",
+    "driveId": "",
+    "duration": "50 phút",
+    "rating": 4.2,
+    "category": "phim-bo",
+    "desc": "",
+    "genre": [
+      "Tình Cảm",
+      "Tâm lý"
+    ],
+    "episodes": [
+      {
+        "name": "Tập 1",
+        "driveId": "1w1S_fE4QHiHF2Ki01j9srwfximjrP4um"
+      },
+      {
+        "name": "Tập 2",
+        "driveId": "1YcDLauY5QhGDDQdYjRXc328N7_PqADNO"
+      },
+      {
+        "name": "Tập 3",
+        "driveId": "1j16nobP484AbtSshj8TuGS_dvrBrWGLk"
+      },
+      {
+        "name": "Tập 4",
+        "driveId": "1ICZplKoxOShf3FupFFDv-x7h8I0yV0mo"
+      },
+      {
+        "name": "Tập 5",
+        "driveId": "1xQrKsm89uL1G1zhWwbtOTMpnkO3Gkhcp"
+      },
+      {
+        "name": "Tập 6",
+        "driveId": "18Cc8Df8gd7xADWa0Hsv7wgW-chS-Scjp"
+      },
+      {
+        "name": "Tập 7",
+        "driveId": "1HLzzxCX-_hVGM1yr-8fWD7hQi7edlEux"
+      }
+    ],
+    "createdAt": "2025-12-10T16:58:21.677Z",
+    "updatedAt": "2025-12-10T16:58:21.677Z"
+  },
+  {
+    "id": "da196a7f-827c-4261-a639-d8db4d499fc1",
+    "title": "Bạn Thân Thâm Độc",
+    "year": 2025,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/banthanthamdoc_1920_1080.jpeg",
+    "driveId": "",
+    "duration": "50 phút",
+    "rating": 4.6,
+    "category": "phim-bo",
+    "desc": "",
+    "genre": [
+      "Thái Lan",
+      "Tình Cảm"
+    ],
+    "episodes": [
+      {
+        "name": "Tập 1",
+        "driveId": "13B9h1rIbPAd2xuiIuls10sHhpqOngc5q"
+      },
+      {
+        "name": "Tập 2",
+        "driveId": "1y0VBAiqPTyqpSP6X39gdJVpe8zANuqng"
+      },
+      {
+        "name": "Tập 3",
+        "driveId": "154ZUCR4OvVV8auzArbh0NhzYHkqFvr3D"
+      }
+    ],
+    "createdAt": "2025-12-10T17:04:33.819Z",
+    "updatedAt": "2025-12-10T17:15:58.365Z"
+  },
+  {
+    "id": "a0cb006d-53e2-4f95-8a1d-fbb2a2e02b24",
+    "title": "Bí Mật Ngọt Ngào",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/bi-mat-ngot-ngao.jpg",
+    "driveId": "",
+    "duration": "",
+    "rating": 4.8,
+    "category": "phim-bo",
+    "desc": "",
+    "genre": [
+      "Hàn Quốc",
+      "Tình Cảm"
+    ],
+    "episodes": [
+      {
+        "name": "Tập 1",
+        "driveId": "1hc9wRLVzbQm3hIYAvvC3ehs9gQL41EE9"
+      },
+      {
+        "name": "Tập 2",
+        "driveId": "19rJE52AC80eyyxTRbNMpJbyGChEGSC6w"
+      },
+      {
+        "name": "Tập 3",
+        "driveId": "1zUsnz_O7IulZcWR6nk0w0PCTX73p0R44"
+      },
+      {
+        "name": "Tập 4",
+        "driveId": "1fE7DtqPVa_VwRNDIG9G_t4ivwdUvegQX"
+      },
+      {
+        "name": "Tập 5",
+        "driveId": "1USgnW44aUFaAF-O6W_P5XFeVp0DYttUD"
+      },
+      {
+        "name": "Tập 6",
+        "driveId": "1UrEcfORdaado016kB7J2koWNvXlOr0yN"
+      },
+      {
+        "name": "Tập 7",
+        "driveId": "1p1SsVHpCtvIMVI-n0aIszBtxfIIv6QhE"
+      },
+      {
+        "name": "Tập 8",
+        "driveId": "1-2d4vOG6Xzke88C2955zGrRSTrJNkpdX"
+      },
+      {
+        "name": "Tập 9",
+        "driveId": "1L-upMVPzSEd9PzfHQYfO_qTF0t-ax3Bk"
+      },
+      {
+        "name": "Tập 10",
+        "driveId": "14UrWIKQhZBNIONcI4Sp1_MiGOmJKxKgo"
+      },
+      {
+        "name": "Tập 11",
+        "driveId": "1yBmQjNzdD6ri38tlJt25pat1-q_92ABT"
+      },
+      {
+        "name": "Tập 12",
+        "driveId": "1DDR_MzKVT277gW3KNuUtPXqJk9766UbP"
+      },
+      {
+        "name": "Tập 13",
+        "driveId": "1Q-xVvxELzHEmvy6ujjuRVFIpMgQ-jLiR"
+      },
+      {
+        "name": "Tập 14",
+        "driveId": "10_AnYFTN5BJezpMwiDRP_Rb-rP836LYW"
+      },
+      {
+        "name": "Tập 15",
+        "driveId": "1CNaa6mQ1edUNn-1y6e7nXh2r8e_vV9zk"
+      },
+      {
+        "name": "Tập 16",
+        "driveId": "1jp2eJAJMbFf1_BNpftu8LXgd9tR26nrK"
+      },
+      {
+        "name": "Tập 17",
+        "driveId": "1SQgR31rlVLHUSlt98zk5u9sInD3R5r2y"
+      },
+      {
+        "name": "Tập 18",
+        "driveId": "10ZsDzAct0rzRSmvAiEgybq3jlyriBuds"
+      },
+      {
+        "name": "Tập 19",
+        "driveId": "11tzjMT1qeN2uoX_d9Wl-KcB71qxEPOZq"
+      },
+      {
+        "name": "Tập 20",
+        "driveId": "1c_1fvcD-OYVmVzMs7aI7RFkGVZPOHaKN"
+      },
+      {
+        "name": "Tập 21",
+        "driveId": "16op5gu9K48gMP9clARvg0gmeCqAqPHXJ"
+      },
+      {
+        "name": "Tập 22",
+        "driveId": "1dEEXzGRVgGrVnVSMTBeb6r9rqNjTFMyM"
+      },
+      {
+        "name": "Tập 23",
+        "driveId": "1ay3u7n4u6vLPrk9lLMDAlJt9ow3XXS9c"
+      },
+      {
+        "name": "Tập 24",
+        "driveId": "1fN6tKp2Io86nY2NX_760-RJInk_ZopD8"
+      }
+    ],
+    "createdAt": "2025-12-10T17:15:49.643Z",
+    "updatedAt": "2025-12-10T17:15:49.643Z"
+  },
+  {
+    "id": "b701bf03-afb7-496a-998f-186ffc10912c",
+    "title": "Đi Tìm Dory",
+    "year": 2016,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/di-tim-dory.jpg",
+    "driveId": "1FokOcHH4eY6Y_5hydq1wXMzStcYX8GlL",
+    "duration": "99 phút",
+    "rating": 4.9,
+    "category": "phim-le",
+    "desc": "",
+    "genre": [
+      "Hành Động",
+      "Hoạt Hình"
+    ],
+    "createdAt": "2025-12-10T17:23:07.924Z",
+    "updatedAt": "2025-12-10T17:23:07.924Z"
   }
 ]
