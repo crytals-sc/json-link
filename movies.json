@@ -1053,5 +1053,23 @@
     ],
     "createdAt": "2025-11-19T07:01:37.800Z",
     "updatedAt": "2025-11-19T07:04:28.450Z"
+  },
+  {
+    "id": "c970b10f-760f-4a47-9d86-54ead6fb4dd5",
+    "title": "Zootopia 2",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/zootopia2.jpg",
+    "driveId": "1ffcUCROYtmLIDFTlz33lKJxeAdJnzkB1",
+    "duration": "98 phút",
+    "rating": 4.9,
+    "category": "phim-le",
+    "desc": "Cô cảnh sát thỏ dũng cảm Judy Hopps và người bạn của cô, chú cáo Nick Wilde, lại hợp tác để phá một vụ án mới, vụ án nguy hiểm và phức tạp nhất trong sự nghiệp của họ.",
+    "genre": [
+      "Hành động",
+      "Phiêu lưu",
+      "Hoạt hình"
+    ],
+    "createdAt": "2025-12-10T15:52:54.752Z",
+    "updatedAt": "2025-12-10T15:52:54.753Z"
   }
 ]
