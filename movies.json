@@ -1389,5 +1389,144 @@
     ],
     "createdAt": "2025-12-11T04:36:46.511Z",
     "updatedAt": "2025-12-11T04:36:46.512Z"
+  },
+  {
+    "id": "8a60c199-8a18-4bc1-953e-3d5708bb6a7d",
+    "title": "Kẻ Cắp Mặt Trăng 2",
+    "year": 2013,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/kecapmattrang2.jpg",
+    "driveId": "1tlxdhdb3a7JzYKkJ5rJq4nDx2b6QYEZM",
+    "duration": "1 giờ 37 phút",
+    "rating": 8,
+    "category": "phim-le",
+    "desc": "Thêm nhiều vũ khí tối tân, thêm nhiều minion và thêm nhiều hỗn loạn! Khi Gru hoàn lương để chăm sóc các con gái, một mật vụ tuyển mộ anh nhằm chống lại kẻ xấu.",
+    "genre": [
+      "Phim gia đình",
+      "Phim trẻ em & gia đình",
+      "Phim hài"
+    ],
+    "createdAt": "2025-12-11T04:57:16.746Z",
+    "updatedAt": "2025-12-11T04:57:16.747Z"
+  },
+  {
+    "id": "48e90f5f-72d3-458c-b814-f235c8928a56",
+    "title": "Kẻ Cắp Mặt Trăng 3",
+    "year": 2017,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/kecapmattrang3.jpg",
+    "driveId": "11o-KkOsXDeGXxSqVNnY1I4uL6MpLY95q",
+    "duration": "90 phút",
+    "rating": 8,
+    "category": "phim-le",
+    "desc": "Phần ba của Despicable Me đi sâu vào câu chuyện về gia đình nhỏ của Gru. Từ một nữ điệp viên mạnh mẽ, Lucy trở nên lúng túng trong việc trở thành mẹ của ba đứa trẻ",
+    "genre": [
+      "Hoạt họa",
+      "Trẻ em",
+      "Hành động",
+      "Hài",
+      "Phiêu lưu",
+      "Khoa học viễn tưởng",
+      "Giả tưởng hình sự"
+    ],
+    "createdAt": "2025-12-11T04:59:17.141Z",
+    "updatedAt": "2025-12-11T04:59:17.141Z"
+  },
+  {
+    "id": "bf549694-08e2-4cb8-a8b1-628962863a88",
+    "title": "Frankenstein",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/Frankenstein.jpg",
+    "driveId": "1hqwb-jsT7bFioe-3wZ11a2DUcF4VUnSr",
+    "duration": "2 giờ 29 phút",
+    "rating": 8,
+    "category": "phim-le",
+    "desc": "Frankenstein; hay Prometheus thời hiện đại là một cuốn tiểu thuyết viết bởi nữ tác giả Mary Shelley vào năm 1818. Frankenstein kể về câu chuyện của Victor Frankenstein, một nhà khoa học trẻ đã tạo ra một sinh vật có trí tuệ con người trong một thí nghiệm khoa học không chính thống.",
+    "genre": [
+      "Khoa học viễn tưởng",
+      "Hư cấu Gothic",
+      "Kinh dị giả tưởng",
+      "Kỳ ảo đen tối"
+    ],
+    "createdAt": "2025-12-11T05:02:24.164Z",
+    "updatedAt": "2025-12-11T05:02:24.164Z"
+  },
+  {
+    "id": "3d8065e4-83d5-4b3f-847d-b7b53a5b148d",
+    "title": "Người Vận Chuyển 3",
+    "year": 2008,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/nguoi-van-chuyen-3.webp",
+    "driveId": "1OpJ_KZYZiWY_00XqA3JYj3J3H5HYdxFy",
+    "duration": "1 giờ 44 phút",
+    "rating": 6.1,
+    "category": "phim-le",
+    "desc": "Trong Transporter 3, Frank Martin chịu nhiều sức ép trong việc hộ tống Valentina, cô con gái bị bắt cóc của Leonid Vasilev, người đứng đầu Cơ Quan Bảo Vệ Môi Trường của Ukraine, suốt chặng đường dài từ Marseilles đến Stuttgart và Budapest, trước khi dừng lại ở Odessa, Biển Đen. Suốt quãng đường đi, dù nhận được sự giúp đỡ của Thanh tra Tarconi, Frank liên tục phải đấu tranh với những người đã ép buộc anh phải nhận lấy công việc này, những tay chân của Vasilev được gửi đến để ngăn cản anh cùng sự bất hợp tác của Valentina. Bất chấp thái độ hoài nghi của Valentina, Frank và cô gái cuối cùng cũng đã chịu kết hợp cùng nhau trong lúc cả hai đang cố gắng thoát khỏi những tình huống đe dọa tính mạng của chính mình liên tiếp ập đến.",
+    "genre": [
+      "Hành Động",
+      "Chiếu Rạp",
+      "Gay Cấn",
+      "Hình Sự",
+      "Phiêu Lưu"
+    ],
+    "createdAt": "2025-12-11T05:06:50.337Z",
+    "updatedAt": "2025-12-11T05:06:50.337Z"
+  },
+  {
+    "id": "ca494442-704a-496e-b4c3-9baa6f90b9fa",
+    "title": "Người Vận Chuyển 1",
+    "year": 2002,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/nguoi-van-chuyen-1.webp",
+    "driveId": "1RNOVrFu_CsVR7PyvzHCUHguZcEf5pNKR",
+    "duration": "1 giờ 32 phút",
+    "rating": 6.8,
+    "category": "phim-le",
+    "desc": "Frank Martin - cựu thành viên của lực lượng đặc biệt tại Mỹ, sau khi về sống tại Pháp anh nhận vận chuyển hàng với 3 điều luật : 1 - Không thay đổi giao kèo. 2 - Không hỏi tên của chủ hàng. 3 - Không bao giờ xem gói hàng nhận vận chuyển. Mọi thương vụ của anh đều làm đúng với 3 điều luật trên nhưng khi anh nhận chuyển một gói hàng của \"Wall Street\" thì anh đã vi phạm vào điều luật thứ 3. Anh phát hiện một cô gái xinh đẹp - Lai - trong đó và sự thật đằng sau phi vụ này là một đường dây buôn người từ Trung Quốc sang Pháp do chính cha của Lai làm chủ mưu.",
+    "genre": [
+      "Hành Động",
+      "Chiếu Rạp",
+      "Gay Cấn",
+      "Hình Sự",
+      "Phiêu Lưu"
+    ],
+    "createdAt": "2025-12-11T05:11:26.326Z",
+    "updatedAt": "2025-12-11T05:11:26.326Z"
+  },
+  {
+    "id": "f69a4521-f948-4080-b2ae-b4d2e2c6c0be",
+    "title": "Người Vận Chuyển 2",
+    "year": 2005,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/nguoi-van-chuyen-2.webp",
+    "driveId": "1qhL0qvCSDd9CfisoZxSNbtb3NFAFCz5g",
+    "duration": "1 giờ 28 phút",
+    "rating": 7.5,
+    "category": "phim-le",
+    "desc": "Sau khi nghỉ hưu ở Miami, cựu nhân viên của Lực lượng đặc biệt - Frank Martin hành nghề tài xế cho gia đình giàu có Billings. Frank được hai cậu nhóc của gia đình đó rất thần tượng và yêu mến. Khi hai cậu bé bị bắt cóc tống tiền anh đã một mình hành động mà không báo cảnh sát để giải cứu hai người bạn nhỏ.",
+    "genre": [
+      "Hành Động",
+      "Chiếu Rạp",
+      "Gay Cấn",
+      "Hình Sự",
+      "Phiêu Lưu"
+    ],
+    "createdAt": "2025-12-11T05:13:05.808Z",
+    "updatedAt": "2025-12-11T05:13:05.808Z"
+  },
+  {
+    "id": "aecd38fd-f928-4bed-8a6c-c0b80ad8f4a9",
+    "title": "Người Vận Chuyển 4- The Transporter Refueled",
+    "year": 2015,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/nguoi-van-chuyen-4.webp",
+    "driveId": "1V07lohlAz10XXINF920ajMJCCmpFa6x_",
+    "duration": "1 giờ 35 phút",
+    "rating": 5.2,
+    "category": "phim-le",
+    "desc": "Người Vận Chuyển 4 - The Transporter Refueled (2015) Từ nhà sản xuất của ”Lucy” và ”Taken”, tiếp nối thành công của series phim “The Transporter”, ”The Transporter Refueled” với dàn diễn viên hoàn toàn mới cùng nam chính ”gây tranh cãi” Ed Skrein trong vai Frank Martin. Nguy hiểm lớn hơn và công nghệ cũng tối tân hơn, thế nhưng anh vẫn giữ 3 điều luật bất di bất dịch: Không thay đổi giao kèo; Không hỏi tên chủ hàng; Không bao giờ xem gói hàng nhận vận chuyển.",
+    "genre": [
+      "Hành Động",
+      "Chiếu Rạp",
+      "Gay Cấn",
+      "Hình Sự",
+      "Phiêu Lưu"
+    ],
+    "createdAt": "2025-12-11T05:14:37.176Z",
+    "updatedAt": "2025-12-11T05:14:37.176Z"
   }
 ]
