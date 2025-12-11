@@ -64,14 +64,14 @@
       }
     ],
     "createdAt": "2025-10-09T15:35:29.545Z",
-    "updatedAt": "2025-11-13T05:31:18.513Z",
+    "updatedAt": "2025-12-11T05:20:29.557Z",
     "rating": 8.7
   },
   {
     "id": "1",
     "title": "Nhiệm Vụ Bất Khả Thi - Nghiệp Báo Cuối Cùng",
     "year": 2025,
-    "poster": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/m/i/mi8_poster_470x700_1.jpg",
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/mi8_poster_470x700_1.jpg",
     "desc": "Cuộc đời là tất thảy những lựa chọn. Tom Cruise thủ vai Ethan Hunt trở lại trong Nhiệm Vụ: Bất Khả Thi – Nghiệp Báo Cuối Cùng.",
     "driveId": "1zoIntZhgLuOErxaRCG23_sizmmKiXfy2",
     "sub": "",
@@ -83,7 +83,7 @@
     ],
     "rating": 9.4,
     "category": "phim-le",
-    "updatedAt": "2025-11-19T07:12:09.187Z"
+    "updatedAt": "2025-12-11T05:20:12.400Z"
   },
   {
     "id": "d68fc39b-7041-4c97-9327-277d71f1ec76",
@@ -319,7 +319,7 @@
     "title": "Thanh Gươm Diệt Quỷ- Vô Hạn Thành",
     "year": 2025,
     "poster": "https://github.com/crytals-sc/json-link/blob/img/kmyb_imax_2000x3000-min.jpg?raw=true",
-    "driveId": "1s8AMryb9EQkSWDqQeZVB7KIF5DvB5yRb",
+    "driveId": "1d3vAR7-4iWJdYBwtSRnsKho9jH4pji0d",
     "duration": "155 phút",
     "rating": 9.8,
     "category": "phim-le",
@@ -329,7 +329,7 @@
       "Hoạt Hình"
     ],
     "createdAt": "2025-10-11T04:00:41.434Z",
-    "updatedAt": "2025-10-12T03:30:23.995Z"
+    "updatedAt": "2025-12-11T05:39:56.684Z"
   },
   {
     "id": "e088da11-86e5-4326-a7b9-8146a45866d0",
@@ -1550,5 +1550,130 @@
     ],
     "createdAt": "2025-12-11T05:18:33.475Z",
     "updatedAt": "2025-12-11T05:18:33.475Z"
+  },
+  {
+    "id": "75736b5c-d910-4c4d-a84e-e96b52188eda",
+    "title": "Quái thú vô hình: Vùng đất chết chóc",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/cgv_pd_up.jpg",
+    "driveId": "1KDij-fW_SgujrpNngho54xcuDcoQNqXE",
+    "duration": "107 phút",
+    "rating": 6.4,
+    "category": "phim-le",
+    "desc": "Trong tương lai, tại một hành tinh hẻo lánh, một Predator non nớt - kẻ bị chính tộc của mình ruồng bỏ - tìm thấy một đồng minh không ngờ tới là Thia và bắt đầu hành trình sinh tử nhằm truy tìm kẻ thù tối thượng. Bộ phim do Dan Trachtenberg - đạo diễn của Prey chỉ đạo và nằm trong chuỗi thương hiệu Quái Thú Vô Hình Predator.",
+    "genre": [
+      "Hành Động",
+      "Phiêu Lưu"
+    ],
+    "createdAt": "2025-12-11T05:23:09.289Z",
+    "updatedAt": "2025-12-11T05:23:09.289Z"
+  },
+  {
+    "id": "d379b452-000e-40a8-b234-81ac6bbe8a67",
+    "title": "Thuốc trường sinh",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/thuoc-truong-sinh.webp",
+    "driveId": "1lHVFd4agEkFQP5SQB6YTCU2YnBESk0TQ",
+    "duration": "1 giờ 58 phút",
+    "rating": 6,
+    "category": "phim-le",
+    "desc": "Một loại thuốc trường sinh giải phóng xác sống trong một ngôi làng. Giữa lúc quê nhà dần sụp đổ, một gia đình bất hòa buộc phải hợp sức chiến đấu để sống sót.",
+    "genre": [
+      "Phim Kinh Dị",
+      "Phim Gây Cấn"
+    ],
+    "createdAt": "2025-12-11T05:26:46.198Z",
+    "updatedAt": "2025-12-11T05:26:46.198Z"
+  },
+  {
+    "id": "210a6f76-4d04-4165-aa71-a69c6370b2c6",
+    "title": "Thị Trấn Baramulla",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/thi-tran-baramulla.webp",
+    "driveId": "1x2IKQNnzQh5t96ORvcEsSnzLozQgogy6",
+    "duration": "2 giờ",
+    "rating": 7,
+    "category": "phim-le",
+    "desc": "Điều tra về vụ bắt cóc trẻ em, viên cảnh sát nọ lật mở những bí mật rùng rợn khi hàng loạt sự kiện siêu nhiên đe dọa gia đình anh và thị trấn yên bình Baramulla.",
+    "genre": [
+      "Kinh Dị",
+      "Tâm Lý",
+      "Viễn Tưởng"
+    ],
+    "createdAt": "2025-12-11T05:29:22.457Z",
+    "updatedAt": "2025-12-11T05:29:22.457Z"
+  },
+  {
+    "id": "0157ac84-a0bb-400a-850c-fc32348893cd",
+    "title": "Vuốt",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/vuot.webp",
+    "driveId": "1YP2NMUm-9Io8OquMlmblBWK80BDtsi1j",
+    "duration": "1 giờ 51 phút",
+    "rating": 6.4,
+    "category": "phim-le",
+    "desc": "Whitney Wolfe dùng ý chí phi thường và sự sáng tạo táo bạo để bước vào thế giới công nghệ vốn bị thống trị bởi đàn ông.",
+    "genre": [
+      "Chính Kịch",
+      "Cổ Điển",
+      "Tâm Lý",
+      "Tuổi Trẻ"
+    ],
+    "createdAt": "2025-12-11T05:31:50.468Z",
+    "updatedAt": "2025-12-11T05:31:50.468Z"
+  },
+  {
+    "id": "4ce94176-5872-446a-8400-3473d0012aa7",
+    "title": "Scarlet của Mẹ- Hwaja's Scarlet",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/scarlet-cua-me.webp",
+    "driveId": "1KBSXDii4KbpyJnnyqwpxy1gV_ECHIGJ5",
+    "duration": "1 giờ 1 phút",
+    "category": "phim-le",
+    "desc": "Oh Hwa Ja (Oh Na Ra) – người phụ nữ buộc phải cho con gái đi làm con nuôi ngay sau khi sinh. Nhiều năm sau, cô con gái – nay có tên Scarlet – trở về Hàn Quốc tìm lại mẹ ruột. Một câu chuyện chan chứa nỗi đau và sự hàn gắn.",
+    "genre": [
+      "Tình Cảm",
+      "Gia Đình",
+      "Đời Thường",
+      "Tâm Lý"
+    ],
+    "createdAt": "2025-12-11T05:34:09.680Z",
+    "updatedAt": "2025-12-11T05:34:09.680Z"
+  },
+  {
+    "id": "44403a2b-b279-4e06-b9ce-3017b8d0f52d",
+    "title": "Five Nights at Freddy's 2",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/FNaF2Film_TheatricalPoster_29.webp",
+    "driveId": "1TrUbe4TVDtpRYhkw2E8N5sa86FMdw1Tc",
+    "duration": "1 giờ 44 phút",
+    "rating": 7.9,
+    "category": "phim-le",
+    "desc": "",
+    "genre": [
+      "Kinh Dị"
+    ],
+    "createdAt": "2025-12-11T05:37:28.853Z",
+    "updatedAt": "2025-12-11T05:37:28.853Z"
+  },
+  {
+    "id": "9b6c1da2-bc51-43b1-97c5-ab9efc78ee41",
+    "title": "Thanh Gươm Diệt Quỷ- Chuyến tàu vô tận",
+    "year": 2020,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/thanh-guom-diet-quy-chuyen-tau-vo-tan.jpg",
+    "driveId": "1wzI9FvRW3DqheZkNgSOpcGmt4ggxO_He",
+    "duration": "2 giờ",
+    "rating": 7.8,
+    "category": "phim-le",
+    "desc": "Thanh Gươm Diệt Quỷ: Chuyến Tàu Vô Tận kể về hành trình đầy cam go khi Tanjiro cùng đồng đội và Viêm Trụ Rengoku đối mặt với Huyết Quỷ Thuật ảo mộng của Quỷ Hạ Huyền Enmu trên chuyến tàu Vô Tận. Trong quá trình điều tra sự mất tích bí ẩn của các Kiếm Sĩ thuộc Đội Diệt Quỷ, nhóm phải hợp sức để bảo vệ mạng sống cho 200 hành khách. Sự hy sinh anh dũng của Viêm Trụ Rengoku đã giúp đánh bại kẻ thù nguy hiểm và mang lại cơ hội sống sót cho tất cả mọi người. Bộ phim có sự góp mặt của nhiều diễn viên lồng tiếng nổi tiếng như Natsuki Hanae, Akari Kito, Hiro Shimono cùng dàn sao đình đám khác, dưới sự chỉ đạo tài tình của đạo diễn Haruo Sotozaki. Thanh Gươm Diệt Quỷ: Chuyến Tàu Vô Tận mang đến trải nghiệm kịch tính và cảm động trong thế giới chiến đấu chống lại quỷ dữ.",
+    "genre": [
+      "Hành Động",
+      "Hoạt Hình",
+      "Phiêu Lưu",
+      "Giả Tượng",
+      "Tâm Lý"
+    ],
+    "createdAt": "2025-12-11T05:44:51.480Z",
+    "updatedAt": "2025-12-11T05:44:51.480Z"
   }
 ]
