@@ -1076,7 +1076,7 @@
     "id": "1f926b60-f4d0-4614-a0f6-c5a72be4d291",
     "title": "Gã Hề Ma Quái: Chào Mừng Đến Derry",
     "year": 2025,
-    "poster": "https://github.com/crytals-sc/json-link/blob/img/ga-he-ma-quai-chao-mung-den-derry-it-chao-mung-toi-derry-24266-poster.webp",
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/ga-he-ma-quai-chao-mung-den-derry-it-chao-mung-toi-derry-24266-poster.webp",
     "driveId": "1sTECiLWB6wcF17OT98ZGiYb8w2ktSqaX",
     "duration": "56 phút",
     "rating": 4.3,
@@ -1088,13 +1088,13 @@
       "Trinh Thám"
     ],
     "createdAt": "2025-12-10T16:50:03.874Z",
-    "updatedAt": "2025-12-10T16:50:33.364Z"
+    "updatedAt": "2025-12-11T04:09:18.990Z"
   },
   {
     "id": "213b5ba7-cc92-493d-92b7-485f7edb1d14",
     "title": "Bà Trùm Tạp Chí Người Lớn",
     "year": 2025,
-    "poster": "https://github.com/crytals-sc/json-link/blob/img/MrsPlaymen-Banniere.jpg",
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/MrsPlaymen-Banniere.jpg",
     "driveId": "",
     "duration": "50 phút",
     "rating": 4.2,
@@ -1135,13 +1135,13 @@
       }
     ],
     "createdAt": "2025-12-10T16:58:21.677Z",
-    "updatedAt": "2025-12-10T16:58:21.677Z"
+    "updatedAt": "2025-12-11T04:10:33.622Z"
   },
   {
     "id": "da196a7f-827c-4261-a639-d8db4d499fc1",
     "title": "Bạn Thân Thâm Độc",
     "year": 2025,
-    "poster": "https://github.com/crytals-sc/json-link/blob/img/banthanthamdoc_1920_1080.jpeg",
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/banthanthamdoc_1920_1080.jpeg",
     "driveId": "",
     "duration": "50 phút",
     "rating": 4.6,
@@ -1166,7 +1166,7 @@
       }
     ],
     "createdAt": "2025-12-10T17:04:33.819Z",
-    "updatedAt": "2025-12-10T17:15:58.365Z"
+    "updatedAt": "2025-12-11T04:10:50.824Z"
   },
   {
     "id": "a0cb006d-53e2-4f95-8a1d-fbb2a2e02b24",
@@ -1287,7 +1287,7 @@
     "id": "b701bf03-afb7-496a-998f-186ffc10912c",
     "title": "Đi Tìm Dory",
     "year": 2016,
-    "poster": "https://github.com/crytals-sc/json-link/blob/img/di-tim-dory.jpg",
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/di-tim-dory.jpg",
     "driveId": "1FokOcHH4eY6Y_5hydq1wXMzStcYX8GlL",
     "duration": "99 phút",
     "rating": 4.9,
@@ -1298,7 +1298,7 @@
       "Hoạt Hình"
     ],
     "createdAt": "2025-12-10T17:23:07.924Z",
-    "updatedAt": "2025-12-10T17:23:07.924Z"
+    "updatedAt": "2025-12-11T04:11:11.026Z"
   },
   {
     "id": "5f8d7edf-6cbe-44c2-a58f-be755f05e3a3",
@@ -1317,5 +1317,77 @@
     ],
     "createdAt": "2025-12-11T03:32:29.830Z",
     "updatedAt": "2025-12-11T03:32:29.830Z"
+  },
+  {
+    "id": "2d172e85-3581-40bf-81fd-6c89f8437700",
+    "title": "Iron Man 1-Người Sắt 1",
+    "year": 2008,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/nguoi-sat-1.jpg",
+    "driveId": "1-KeNVZD1Ils1m1BYmSvoOPPfcEB8rttG",
+    "duration": "",
+    "category": "phim-le",
+    "desc": "",
+    "genre": [
+      "Hành Động"
+    ],
+    "createdAt": "2025-12-11T04:22:57.810Z",
+    "updatedAt": "2025-12-11T04:22:57.810Z"
+  },
+  {
+    "id": "c81b1ba1-c5c5-4b98-a570-de502e73e2cf",
+    "title": "Iron Man 2-Người Sắt 2",
+    "year": 2010,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/nguoi-sat-2.jpg",
+    "driveId": "1tA2VW3c6-TrJFHQ45ykZj6d5KvMqPiXS",
+    "duration": "2 giờ 4 phút",
+    "rating": 8.8,
+    "category": "phim-le",
+    "desc": "Robert Downey Jr. returns as Tony Stark, the wealthy playboy whose exploits as Iron Man are now public knowledge after his admission at the close of the ...",
+    "genre": [
+      "Hành động",
+      "Siêu anh hùng",
+      "Phiêu lưu",
+      "Khoa học viễn tưởng"
+    ],
+    "createdAt": "2025-12-11T04:25:26.107Z",
+    "updatedAt": "2025-12-11T04:25:26.107Z"
+  },
+  {
+    "id": "6225d9ba-945e-4c83-976d-7ae64eb1431f",
+    "title": "Iron Man 3-Người Sắt 3",
+    "year": 2013,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/nguoi-sat-3.jpg",
+    "driveId": "1DJQFk5rImeuhJGmU9gi5gmPnrwdZkZJI",
+    "duration": "130 phút",
+    "rating": 8.9,
+    "category": "phim-le",
+    "desc": "Từ sau những sự kiện và những trận chiến đầy ám ảnh trong The Avengers, Tony Stark quay về ở ẩn trong căn biệt thự sang trọng của mình, tạm thời chờ đợi trong tư cách một tỷ phú giàu có được yêu mến và gác danh phận siêu anh hùng sang một bên.  Tuy nhiên, những hiểm họa mới lại tiếp tục xuất hiện dưới bóng ma bao trùm của một quái nhân, đồng thời cũng là một thiên tài về công nghệ – The Mandarin. Người bạn thân trong lực lượng quân đội Hoa Kỳ của Tony – James Rhodes cần tới sự giúp đỡ của anh và những bộ giáp siêu việt.  Mọi chuyện không hề dễ dàng như Tony và James tưởng tượng: dưới sức mạnh thần bí của mười chiếc nhẫn vũ trụ, The Mandarin đã đánh bại \"Người Sắt\", đồng thời khiến siêu anh hùng – tỷ phú trở thành kẻ mất trí nhớ…",
+    "genre": [
+      "Hành động",
+      "Hài",
+      "Siêu anh hùng",
+      "Phiêu lưu",
+      "Khoa học viễn tưởng",
+      "Chính kịch"
+    ],
+    "createdAt": "2025-12-11T04:27:31.014Z",
+    "updatedAt": "2025-12-11T04:27:31.014Z"
+  },
+  {
+    "id": "f2799102-ac0b-49a5-992a-9c48378b4cb6",
+    "title": "Kẻ Cắp Mặt Trăng 1",
+    "year": 2010,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/kecapmattrang.jpg",
+    "driveId": "1-EOPepPbeIjbuyseB4Ga69ZUt194O3Qy",
+    "duration": "1 giờ 30 phút",
+    "rating": 9.8,
+    "category": "phim-le",
+    "desc": "Kẻ Cắp Mặt Trăng - Despicable Me kể về là Gru - một trong những tên tội phạm khét tiếng nhất thế giới. Gru lúc nào cũng muốn làm việc xấu xa và sẵn sàng gạt bỏ những kẻ ngáng đường đi của hắn. Sống trong một ngôi nhà tối tăm ở vùng ngoại ô thành phố, Gru xây dựng căn cứ bí mật nằm sâu dưới lòng đất cùng những kẻ tay sai tý hon màu vàng. Hắn còn sở hữu một kho đồ chơi công nghệ với nhiều vũ khí và máy móc hiện đại. Nhận thấy có nhiều kẻ tội phạm mới nổi danh hơn mình, Gru quyết định thực hiện âm mưu vĩ đại nhất thế kỷ: đánh cắp mặt trăng. Với sự giúp đỡ của tiến sĩ Nefario và đội quân tý hon màu vàng, Gru bắt đầu triển khai mọi việc. Tuy nhiên, kế hoạch của hắn bị cản trở bởi sự xuất hiện của Vector - một tên tội phạm mới nổi. Mặt khác, Gru còn phải đương đầu với ba đứa trẻ mồ côi tinh nghịch. Ba cô bé Margo, Edith và Agnes làm xáo trộn toàn bộ cuộc sống và con người của Gru. Chúng đã giúp Gru nhận thấy một điều ở chính bản thân mà trước đây hắn chưa từng biết: tiềm năng trở thành một người cha vĩ đại. Gru đứng giữa hai sự lựa chọn giữa cái thiện và cái ác...",
+    "genre": [
+      "Hành Động",
+      "Hoạt Hình"
+    ],
+    "createdAt": "2025-12-11T04:36:46.511Z",
+    "updatedAt": "2025-12-11T04:36:46.512Z"
   }
 ]
