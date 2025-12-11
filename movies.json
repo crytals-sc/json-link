@@ -721,7 +721,7 @@
     "id": "09d8c2cb-87c2-42eb-9041-d7e606acf1ed",
     "title": "Thám Tử Lừng Danh Conan Movie 18: Sát Thủ Bắn Tỉa Không Tưởng",
     "year": 2014,
-    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie18.jpg?raw=true",
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie18.jpg",
     "driveId": "1xGzHaOjvv5h7vGIv3UM33PEJFc9M_VBu",
     "duration": "110 phút",
     "rating": 7.5,
@@ -735,7 +735,7 @@
       "Tội Phạm"
     ],
     "createdAt": "2025-10-11T13:37:59.524Z",
-    "updatedAt": "2025-10-11T13:37:59.524Z"
+    "updatedAt": "2025-12-11T05:47:06.390Z"
   },
   {
     "id": "cad4cf1d-79df-42aa-a566-c5541b213200",
