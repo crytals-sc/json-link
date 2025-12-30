@@ -1,5 +1,40 @@
 [
   {
+    "id": "19dcddc0-8bb4-420e-8ab7-43c5ab07987d",
+    "title": "Avatar: Fire and Ash (2025)- Thế Nhân: Lửa và Tro tàn (2025)",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/p_studios_avatar_fireandash_windtrader_poster_a90c31b6.jpeg",
+    "driveId": "1-iV1_oxX-2xeoe6y37YQszgf4Mxfx_tC",
+    "duration": "3h 10p",
+    "rating": 7,
+    "category": "phim-le",
+    "desc": "Avatar: Fire and Ash (2025) tiếp tục câu chuyện nhà Sully đối mặt với mối đe dọa mới, giới thiệu tộc Mangkwan (Tộc Tro Tàn) hung hãn ở vùng núi lửa, khám phá mặt tối của người Na'vi và ý nghĩa của sự giận dữ, trả thù, đồng thời làm nổi bật hành trình trưởng thành của thế hệ trẻ như Lo'ak, Kiri, Spider, với những trận chiến hoành tráng hơn và công nghệ hình ảnh, âm thanh đột phá. Phim đào sâu vào xung đột nội bộ, với lửa tượng trưng cho hận thù, tro tàn là mất mát, và mở rộng thế giới Pandora với các nền văn hóa Na'vi khác biệt, theo lời đạo diễn James Cameron.",
+    "genre": [
+      "Hành Động",
+      "Hoạt Hình"
+    ],
+    "createdAt": "2025-12-30T11:07:42.268Z",
+    "updatedAt": "2025-12-30T11:07:42.268Z"
+  },
+  {
+    "id": "1",
+    "title": "Nhiệm Vụ Bất Khả Thi - Nghiệp Báo Cuối Cùng",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/mi8_poster_470x700_1.jpg",
+    "desc": "Cuộc đời là tất thảy những lựa chọn. Tom Cruise thủ vai Ethan Hunt trở lại trong Nhiệm Vụ: Bất Khả Thi – Nghiệp Báo Cuối Cùng.",
+    "driveId": "1zoIntZhgLuOErxaRCG23_sizmmKiXfy2",
+    "sub": "",
+    "duration": "168 phút",
+    "genre": [
+      "Hành Động",
+      "Tâm Lý",
+      "Giật Gân"
+    ],
+    "rating": 9.4,
+    "category": "phim-le",
+    "updatedAt": "2025-12-11T05:20:12.400Z"
+  },
+  {
     "id": "3862e04f-081a-4511-bd94-6ae43fd5bd9a",
     "title": "Hoán Đổi Trái Tim",
     "year": 2025,
@@ -66,24 +101,6 @@
     "createdAt": "2025-10-09T15:35:29.545Z",
     "updatedAt": "2025-12-11T05:20:29.557Z",
     "rating": 8.7
-  },
-  {
-    "id": "1",
-    "title": "Nhiệm Vụ Bất Khả Thi - Nghiệp Báo Cuối Cùng",
-    "year": 2025,
-    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/mi8_poster_470x700_1.jpg",
-    "desc": "Cuộc đời là tất thảy những lựa chọn. Tom Cruise thủ vai Ethan Hunt trở lại trong Nhiệm Vụ: Bất Khả Thi – Nghiệp Báo Cuối Cùng.",
-    "driveId": "1zoIntZhgLuOErxaRCG23_sizmmKiXfy2",
-    "sub": "",
-    "duration": "168 phút",
-    "genre": [
-      "Hành Động",
-      "Tâm Lý",
-      "Giật Gân"
-    ],
-    "rating": 9.4,
-    "category": "phim-le",
-    "updatedAt": "2025-12-11T05:20:12.400Z"
   },
   {
     "id": "d68fc39b-7041-4c97-9327-277d71f1ec76",
@@ -721,7 +738,7 @@
     "id": "09d8c2cb-87c2-42eb-9041-d7e606acf1ed",
     "title": "Thám Tử Lừng Danh Conan Movie 18: Sát Thủ Bắn Tỉa Không Tưởng",
     "year": 2014,
-    "poster": "https://github.com/crytals-sc/json-link/blob/img/conanmovie18.jpg",
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/conanmovie18.jpg",
     "driveId": "1xGzHaOjvv5h7vGIv3UM33PEJFc9M_VBu",
     "duration": "110 phút",
     "rating": 7.5,
@@ -735,7 +752,7 @@
       "Tội Phạm"
     ],
     "createdAt": "2025-10-11T13:37:59.524Z",
-    "updatedAt": "2025-12-11T05:47:06.390Z"
+    "updatedAt": "2025-12-30T11:09:21.108Z"
   },
   {
     "id": "cad4cf1d-79df-42aa-a566-c5541b213200",
@@ -1431,6 +1448,28 @@
     "updatedAt": "2025-12-11T04:59:17.141Z"
   },
   {
+    "id": "46062a3e-c26d-4b5e-ae0a-ee3ec2c0388e",
+    "title": "Phi Vụ Thế Kỷ: Thoắt Ẩn Thoắt Hiện",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/teaser_poster_phi_vu_the_ky_3.jpg",
+    "driveId": "1mFDHGWFgXbg-seLIFkFtwCwTIESPq3Ur",
+    "duration": "113 phút",
+    "rating": 7.6,
+    "category": "phim-le",
+    "desc": "Tứ Kỵ Sĩ chính thức tái xuất, bắt tay cùng các tân binh ảo thuật gia Gen Z trong một phi vụ đánh cắp kim cương liều lĩnh nhất trong sự nghiệp. Họ phải đối đầu với bà trùm Veronika của đế chế rửa tiền nhà Vandenberg (do Rosamund Pike thủ vai) - một người phụ nữ quyền lực và đầy thủ đoạn. Khi kinh nghiệm lão làng của bộ tứ ảo thuật va chạm với công nghệ 4.0 của một mạng lưới tội phạm xuyên lục địa, liệu ai sẽ làm chủ cuộc chơi? Hãy chuẩn bị tinh thần cho những cú xoắn não mà bạn không thể đoán trước!",
+    "genre": [
+      "Hài",
+      "Phiêu lưu",
+      "Tội phạm",
+      "Giật gân",
+      "Thần bí",
+      "Hồi hộp",
+      "Giả tưởng hình sự"
+    ],
+    "createdAt": "2025-12-11T05:18:33.475Z",
+    "updatedAt": "2025-12-11T05:18:33.475Z"
+  },
+  {
     "id": "bf549694-08e2-4cb8-a8b1-628962863a88",
     "title": "Frankenstein",
     "year": 2025,
@@ -1490,68 +1529,6 @@
     "updatedAt": "2025-12-11T05:11:26.326Z"
   },
   {
-    "id": "f69a4521-f948-4080-b2ae-b4d2e2c6c0be",
-    "title": "Người Vận Chuyển 2",
-    "year": 2005,
-    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/nguoi-van-chuyen-2.webp",
-    "driveId": "1qhL0qvCSDd9CfisoZxSNbtb3NFAFCz5g",
-    "duration": "1 giờ 28 phút",
-    "rating": 7.5,
-    "category": "phim-le",
-    "desc": "Sau khi nghỉ hưu ở Miami, cựu nhân viên của Lực lượng đặc biệt - Frank Martin hành nghề tài xế cho gia đình giàu có Billings. Frank được hai cậu nhóc của gia đình đó rất thần tượng và yêu mến. Khi hai cậu bé bị bắt cóc tống tiền anh đã một mình hành động mà không báo cảnh sát để giải cứu hai người bạn nhỏ.",
-    "genre": [
-      "Hành Động",
-      "Chiếu Rạp",
-      "Gay Cấn",
-      "Hình Sự",
-      "Phiêu Lưu"
-    ],
-    "createdAt": "2025-12-11T05:13:05.808Z",
-    "updatedAt": "2025-12-11T05:13:05.808Z"
-  },
-  {
-    "id": "aecd38fd-f928-4bed-8a6c-c0b80ad8f4a9",
-    "title": "Người Vận Chuyển 4- The Transporter Refueled",
-    "year": 2015,
-    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/nguoi-van-chuyen-4.webp",
-    "driveId": "1V07lohlAz10XXINF920ajMJCCmpFa6x_",
-    "duration": "1 giờ 35 phút",
-    "rating": 5.2,
-    "category": "phim-le",
-    "desc": "Người Vận Chuyển 4 - The Transporter Refueled (2015) Từ nhà sản xuất của ”Lucy” và ”Taken”, tiếp nối thành công của series phim “The Transporter”, ”The Transporter Refueled” với dàn diễn viên hoàn toàn mới cùng nam chính ”gây tranh cãi” Ed Skrein trong vai Frank Martin. Nguy hiểm lớn hơn và công nghệ cũng tối tân hơn, thế nhưng anh vẫn giữ 3 điều luật bất di bất dịch: Không thay đổi giao kèo; Không hỏi tên chủ hàng; Không bao giờ xem gói hàng nhận vận chuyển.",
-    "genre": [
-      "Hành Động",
-      "Chiếu Rạp",
-      "Gay Cấn",
-      "Hình Sự",
-      "Phiêu Lưu"
-    ],
-    "createdAt": "2025-12-11T05:14:37.176Z",
-    "updatedAt": "2025-12-11T05:14:37.176Z"
-  },
-  {
-    "id": "46062a3e-c26d-4b5e-ae0a-ee3ec2c0388e",
-    "title": "Phi Vụ Thế Kỷ: Thoắt Ẩn Thoắt Hiện",
-    "year": 2025,
-    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/teaser_poster_phi_vu_the_ky_3.jpg",
-    "driveId": "1mFDHGWFgXbg-seLIFkFtwCwTIESPq3Ur",
-    "duration": "113 phút",
-    "rating": 7.6,
-    "category": "phim-le",
-    "desc": "Tứ Kỵ Sĩ chính thức tái xuất, bắt tay cùng các tân binh ảo thuật gia Gen Z trong một phi vụ đánh cắp kim cương liều lĩnh nhất trong sự nghiệp. Họ phải đối đầu với bà trùm Veronika của đế chế rửa tiền nhà Vandenberg (do Rosamund Pike thủ vai) - một người phụ nữ quyền lực và đầy thủ đoạn. Khi kinh nghiệm lão làng của bộ tứ ảo thuật va chạm với công nghệ 4.0 của một mạng lưới tội phạm xuyên lục địa, liệu ai sẽ làm chủ cuộc chơi? Hãy chuẩn bị tinh thần cho những cú xoắn não mà bạn không thể đoán trước!",
-    "genre": [
-      "Hài",
-      "Phiêu lưu",
-      "Tội phạm",
-      "Giật gân",
-      "Thần bí",
-      "Hồi hộp",
-      "Giả tưởng hình sự"
-    ],
-    "createdAt": "2025-12-11T05:18:33.475Z",
-    "updatedAt": "2025-12-11T05:18:33.475Z"
-  },
-  {
     "id": "75736b5c-d910-4c4d-a84e-e96b52188eda",
     "title": "Quái thú vô hình: Vùng đất chết chóc",
     "year": 2025,
@@ -1584,6 +1561,26 @@
     ],
     "createdAt": "2025-12-11T05:26:46.198Z",
     "updatedAt": "2025-12-11T05:26:46.198Z"
+  },
+  {
+    "id": "f69a4521-f948-4080-b2ae-b4d2e2c6c0be",
+    "title": "Người Vận Chuyển 2",
+    "year": 2005,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/nguoi-van-chuyen-2.webp",
+    "driveId": "1qhL0qvCSDd9CfisoZxSNbtb3NFAFCz5g",
+    "duration": "1 giờ 28 phút",
+    "rating": 7.5,
+    "category": "phim-le",
+    "desc": "Sau khi nghỉ hưu ở Miami, cựu nhân viên của Lực lượng đặc biệt - Frank Martin hành nghề tài xế cho gia đình giàu có Billings. Frank được hai cậu nhóc của gia đình đó rất thần tượng và yêu mến. Khi hai cậu bé bị bắt cóc tống tiền anh đã một mình hành động mà không báo cảnh sát để giải cứu hai người bạn nhỏ.",
+    "genre": [
+      "Hành Động",
+      "Chiếu Rạp",
+      "Gay Cấn",
+      "Hình Sự",
+      "Phiêu Lưu"
+    ],
+    "createdAt": "2025-12-11T05:13:05.808Z",
+    "updatedAt": "2025-12-11T05:13:05.808Z"
   },
   {
     "id": "210a6f76-4d04-4165-aa71-a69c6370b2c6",
@@ -1641,22 +1638,6 @@
     "updatedAt": "2025-12-11T05:34:09.680Z"
   },
   {
-    "id": "44403a2b-b279-4e06-b9ce-3017b8d0f52d",
-    "title": "Five Nights at Freddy's 2",
-    "year": 2025,
-    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/FNaF2Film_TheatricalPoster_29.webp",
-    "driveId": "1TrUbe4TVDtpRYhkw2E8N5sa86FMdw1Tc",
-    "duration": "1 giờ 44 phút",
-    "rating": 7.9,
-    "category": "phim-le",
-    "desc": "",
-    "genre": [
-      "Kinh Dị"
-    ],
-    "createdAt": "2025-12-11T05:37:28.853Z",
-    "updatedAt": "2025-12-11T05:37:28.853Z"
-  },
-  {
     "id": "9b6c1da2-bc51-43b1-97c5-ab9efc78ee41",
     "title": "Thanh Gươm Diệt Quỷ- Chuyến tàu vô tận",
     "year": 2020,
@@ -1675,5 +1656,41 @@
     ],
     "createdAt": "2025-12-11T05:44:51.480Z",
     "updatedAt": "2025-12-11T05:44:51.480Z"
+  },
+  {
+    "id": "44403a2b-b279-4e06-b9ce-3017b8d0f52d",
+    "title": "Five Nights at Freddy's 2",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/FNaF2Film_TheatricalPoster_29.webp",
+    "driveId": "1TrUbe4TVDtpRYhkw2E8N5sa86FMdw1Tc",
+    "duration": "1 giờ 44 phút",
+    "rating": 7.9,
+    "category": "phim-le",
+    "desc": "",
+    "genre": [
+      "Kinh Dị"
+    ],
+    "createdAt": "2025-12-11T05:37:28.853Z",
+    "updatedAt": "2025-12-11T05:37:28.853Z"
+  },
+  {
+    "id": "aecd38fd-f928-4bed-8a6c-c0b80ad8f4a9",
+    "title": "Người Vận Chuyển 4- The Transporter Refueled",
+    "year": 2015,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/nguoi-van-chuyen-4.webp",
+    "driveId": "1V07lohlAz10XXINF920ajMJCCmpFa6x_",
+    "duration": "1 giờ 35 phút",
+    "rating": 5.2,
+    "category": "phim-le",
+    "desc": "Người Vận Chuyển 4 - The Transporter Refueled (2015) Từ nhà sản xuất của ”Lucy” và ”Taken”, tiếp nối thành công của series phim “The Transporter”, ”The Transporter Refueled” với dàn diễn viên hoàn toàn mới cùng nam chính ”gây tranh cãi” Ed Skrein trong vai Frank Martin. Nguy hiểm lớn hơn và công nghệ cũng tối tân hơn, thế nhưng anh vẫn giữ 3 điều luật bất di bất dịch: Không thay đổi giao kèo; Không hỏi tên chủ hàng; Không bao giờ xem gói hàng nhận vận chuyển.",
+    "genre": [
+      "Hành Động",
+      "Chiếu Rạp",
+      "Gay Cấn",
+      "Hình Sự",
+      "Phiêu Lưu"
+    ],
+    "createdAt": "2025-12-11T05:14:37.176Z",
+    "updatedAt": "2025-12-11T05:14:37.176Z"
   }
 ]
