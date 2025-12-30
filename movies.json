@@ -1348,14 +1348,14 @@
       "Hành Động"
     ],
     "createdAt": "2025-12-11T04:22:57.810Z",
-    "updatedAt": "2025-12-11T04:22:57.810Z"
+    "updatedAt": "2025-12-30T11:53:48.543Z"
   },
   {
     "id": "c81b1ba1-c5c5-4b98-a570-de502e73e2cf",
     "title": "Iron Man 2-Người Sắt 2",
     "year": 2010,
     "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/nguoi-sat-2.jpg",
-    "driveId": "1tA2VW3c6-TrJFHQ45ykZj6d5KvMqPiXS",
+    "driveId": "1xqsavF3e2dPLGaryJQz6Pq0kYWov8jJ8",
     "duration": "2 giờ 4 phút",
     "rating": 8.8,
     "category": "phim-le",
@@ -1367,7 +1367,7 @@
       "Khoa học viễn tưởng"
     ],
     "createdAt": "2025-12-11T04:25:26.107Z",
-    "updatedAt": "2025-12-11T04:25:26.107Z"
+    "updatedAt": "2025-12-30T11:17:22.307Z"
   },
   {
     "id": "6225d9ba-945e-4c83-976d-7ae64eb1431f",
@@ -1692,5 +1692,22 @@
     ],
     "createdAt": "2025-12-11T05:14:37.176Z",
     "updatedAt": "2025-12-11T05:14:37.176Z"
+  },
+  {
+    "id": "e180d561-4f8f-4aaf-aaac-24a35a8dd664",
+    "title": "Trăm dặm tử thần (The Long Walk)",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/poster_tram_dam_tu_than_3.jpg",
+    "driveId": "19HPCDZ7t5U2ouEsjrnktJNs01P7c1k-K",
+    "duration": "108 phút",
+    "rating": 7.6,
+    "category": "phim-le",
+    "desc": "\"Trăm dặm tử thần\" (The Long Walk) là tên tiếng Việt của bộ phim điện ảnh kinh dị tâm lý ra mắt năm 2025, chuyển thể từ tiểu thuyết cùng tên nổi tiếng của Stephen King (viết dưới bút danh Richard Bachman). Phim kể về một cuộc thi sinh tồn tàn bạo tại một nước Mỹ độc tài, nơi 100 thiếu niên phải đi bộ liên tục, giữ tốc độ nhất định; ai chậm lại, dừng lại, hoặc gục ngã sẽ bị xử tử ngay lập tức, chỉ có một người sống sót cuối cùng nhận phần thưởng trọn đời.",
+    "genre": [
+      "Kinh Dị",
+      "Tâm Lý"
+    ],
+    "createdAt": "2025-12-30T11:57:06.764Z",
+    "updatedAt": "2025-12-30T11:57:06.764Z"
   }
 ]
