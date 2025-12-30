@@ -17,6 +17,24 @@
     "updatedAt": "2025-12-30T11:07:42.268Z"
   },
   {
+    "id": "c970b10f-760f-4a47-9d86-54ead6fb4dd5",
+    "title": "Zootopia 2",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/zootopia2.jpg",
+    "driveId": "1ffcUCROYtmLIDFTlz33lKJxeAdJnzkB1",
+    "duration": "98 phút",
+    "rating": 4.9,
+    "category": "phim-le",
+    "desc": "Cô cảnh sát thỏ dũng cảm Judy Hopps và người bạn của cô, chú cáo Nick Wilde, lại hợp tác để phá một vụ án mới, vụ án nguy hiểm và phức tạp nhất trong sự nghiệp của họ.",
+    "genre": [
+      "Hành động",
+      "Phiêu lưu",
+      "Hoạt hình"
+    ],
+    "createdAt": "2025-12-10T15:52:54.752Z",
+    "updatedAt": "2025-12-10T15:52:54.753Z"
+  },
+  {
     "id": "1",
     "title": "Nhiệm Vụ Bất Khả Thi - Nghiệp Báo Cuối Cùng",
     "year": 2025,
@@ -243,7 +261,7 @@
       "Action"
     ],
     "rating": 4.5,
-    "category": "phim-hoat-hinh",
+    "category": "phim-bo",
     "episodes": [
       {
         "name": "Tập 1",
@@ -255,7 +273,7 @@
       }
     ],
     "driveId": "",
-    "updatedAt": "2025-10-11T04:19:09.706Z"
+    "updatedAt": "2025-12-30T12:29:30.280Z"
   },
   {
     "id": "cc5a13d5-8ab4-422c-82c8-fad4cb1a9eec",
@@ -294,23 +312,6 @@
     "updatedAt": "2025-10-11T13:06:03.629Z",
     "year": 2023,
     "rating": 4.5
-  },
-  {
-    "id": "3eeb3dfa-0678-4486-a09b-2ebd1e1326c3",
-    "title": "Thám Tử Lừng Danh Conan Movie 01- Quả Bom Chọc Trời",
-    "year": 1997,
-    "poster": "https://github.com/crytals-sc/json-link/blob/img/i8mXheCgoCQj3Ikz7pE50akJOR.webp?raw=true",
-    "driveId": "1MXOw-m5csJ1jd2XauHa3YnZI0rnHmKem",
-    "duration": "95 phút",
-    "rating": 10,
-    "category": "phim-le",
-    "desc": "Trong tập phim này, Shinichi nhận lời mời dự tiệc từ kiến trúc sư Teiji Moriya, người không hề biết cậu đã bị thu nhỏ thành Conan. Cùng lúc đó, một kẻ lạ mặt gọi điện thách thức cậu tìm ra những quả bom đang được đặt xung quanh Tokyo. Hai sự kiện này liệu có liên quan đến nhau? Mọi việc càng trở nên nghiêm trọng khi Ran bị mắc kẹt tại một trong những tòa nhà đã bị đặt bom. Liệu Conan có tìm ra hung thủ và cứu cô bạn mình khỏi khoảnh khắc sinh tử?",
-    "genre": [
-      "Bí Ẩn",
-      "Phiêu Lưu"
-    ],
-    "createdAt": "2025-10-10T06:45:10.224Z",
-    "updatedAt": "2025-10-11T13:06:14.366Z"
   },
   {
     "id": "695d8c78-4ba7-4e1d-b17e-d962940a1015",
@@ -400,6 +401,23 @@
     ],
     "createdAt": "2025-10-11T04:31:28.437Z",
     "updatedAt": "2025-10-11T04:31:28.437Z"
+  },
+  {
+    "id": "3eeb3dfa-0678-4486-a09b-2ebd1e1326c3",
+    "title": "Thám Tử Lừng Danh Conan Movie 01- Quả Bom Chọc Trời",
+    "year": 1997,
+    "poster": "https://github.com/crytals-sc/json-link/blob/img/i8mXheCgoCQj3Ikz7pE50akJOR.webp?raw=true",
+    "driveId": "1MXOw-m5csJ1jd2XauHa3YnZI0rnHmKem",
+    "duration": "95 phút",
+    "rating": 10,
+    "category": "phim-le",
+    "desc": "Trong tập phim này, Shinichi nhận lời mời dự tiệc từ kiến trúc sư Teiji Moriya, người không hề biết cậu đã bị thu nhỏ thành Conan. Cùng lúc đó, một kẻ lạ mặt gọi điện thách thức cậu tìm ra những quả bom đang được đặt xung quanh Tokyo. Hai sự kiện này liệu có liên quan đến nhau? Mọi việc càng trở nên nghiêm trọng khi Ran bị mắc kẹt tại một trong những tòa nhà đã bị đặt bom. Liệu Conan có tìm ra hung thủ và cứu cô bạn mình khỏi khoảnh khắc sinh tử?",
+    "genre": [
+      "Bí Ẩn",
+      "Phiêu Lưu"
+    ],
+    "createdAt": "2025-10-10T06:45:10.224Z",
+    "updatedAt": "2025-10-11T13:06:14.366Z"
   },
   {
     "id": "1e01e74c-edfb-4ff5-9db2-a5f775c74e67",
@@ -1072,24 +1090,6 @@
     "updatedAt": "2025-11-19T07:04:28.450Z"
   },
   {
-    "id": "c970b10f-760f-4a47-9d86-54ead6fb4dd5",
-    "title": "Zootopia 2",
-    "year": 2025,
-    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/zootopia2.jpg",
-    "driveId": "1ffcUCROYtmLIDFTlz33lKJxeAdJnzkB1",
-    "duration": "98 phút",
-    "rating": 4.9,
-    "category": "phim-le",
-    "desc": "Cô cảnh sát thỏ dũng cảm Judy Hopps và người bạn của cô, chú cáo Nick Wilde, lại hợp tác để phá một vụ án mới, vụ án nguy hiểm và phức tạp nhất trong sự nghiệp của họ.",
-    "genre": [
-      "Hành động",
-      "Phiêu lưu",
-      "Hoạt hình"
-    ],
-    "createdAt": "2025-12-10T15:52:54.752Z",
-    "updatedAt": "2025-12-10T15:52:54.753Z"
-  },
-  {
     "id": "1f926b60-f4d0-4614-a0f6-c5a72be4d291",
     "title": "Gã Hề Ma Quái: Chào Mừng Đến Derry",
     "year": 2025,
@@ -1708,6 +1708,6 @@
       "Tâm Lý"
     ],
     "createdAt": "2025-12-30T11:57:06.764Z",
-    "updatedAt": "2025-12-30T11:57:06.764Z"
+    "updatedAt": "2025-12-30T12:28:27.996Z"
   }
 ]
