@@ -1709,5 +1709,22 @@
     ],
     "createdAt": "2025-12-30T11:57:06.764Z",
     "updatedAt": "2025-12-30T12:28:27.996Z"
+  },
+  {
+    "id": "3f9004f7-be0a-4e28-bff4-eb78385e2edd",
+    "title": "Chainsaw Man The Movie Reze Arc",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/Chainsaw-Man-The-Movie-Reze-Arc.jpg",
+    "driveId": "1sC-wp2764d_V6stcZyWD5wvfcrEnQ6Wf",
+    "duration": "1 giờ 40 phút",
+    "rating": 8.6,
+    "category": "phim-le",
+    "desc": "",
+    "genre": [
+      "Hoạt Hình",
+      "Hành Động"
+    ],
+    "createdAt": "2026-01-05T09:28:19.716Z",
+    "updatedAt": "2026-01-05T09:28:19.716Z"
   }
 ]
