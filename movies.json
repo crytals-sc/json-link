@@ -1726,5 +1726,74 @@
     ],
     "createdAt": "2026-01-05T09:28:19.716Z",
     "updatedAt": "2026-01-05T09:28:19.716Z"
+  },
+  {
+    "id": "803b292d-055b-4d41-93b4-f563ee9ec10b",
+    "title": "Ỷ Mộng Lệnh",
+    "year": 2025,
+    "poster": "https://raw.githubusercontent.com/crytals-sc/json-link/refs/heads/img/y-mong-lenh.webp",
+    "driveId": "",
+    "duration": "40 phút",
+    "rating": 6.9,
+    "category": "phim-bo",
+    "desc": "Ỷ Mộng Lệnh\n\nxoay quanh câu chuyện của một người phụ nữ từng bị phản bội và hủy hoại. Với diện mạo mới và một kế hoạch trả thù hoàn hảo, nàng quyết tâm làm lại cuộc đời. Tuy nhiên, khi cha con nhà Lưu sa vào bẫy, hiểm họa càng lúc càng gần kề, đe dọa đến cuộc sống của nàng. Mọi thứ chỉ bắt đầu thay đổi khi một kẻ bí ẩn từ bóng tối xuất hiện, mang theo những bí mật có khả năng lật đổ mọi thứ.",
+    "genre": [
+      "Cổ Trang",
+      "Tình Cảm",
+      "Tâm Lý",
+      "Chính kịch"
+    ],
+    "episodes": [
+      {
+        "name": "Tập 1",
+        "driveId": "1gMX5r7XZr80VfDdIH-fb9M0vCOrJ1kie"
+      },
+      {
+        "name": "Tập 2",
+        "driveId": "17Qft7ZNjRKT1S0t7hR9oQB2WuV5BN2nV"
+      },
+      {
+        "name": "Tập 3",
+        "driveId": "14ExO-RA_3HVYSihKnpTJrWJxCfm8C57N"
+      },
+      {
+        "name": "Tập 4",
+        "driveId": "1NbJgtaTH-CDJS5yTLcn91DnpVvcMS0-V"
+      },
+      {
+        "name": "Tập 5",
+        "driveId": "1dyquLPKN6aMzTBLf-3XrjqLuUcoKrTn6"
+      },
+      {
+        "name": "Tập 6",
+        "driveId": "16rWwTMDjHBGzQjZsakMpc7k3OxuTvt64"
+      },
+      {
+        "name": "Tập 7",
+        "driveId": "1L0H4RWm1OX8PSndHjTsB3RxR01TLBOCY"
+      },
+      {
+        "name": "Tập 8",
+        "driveId": "1ULrrkLGddN_GOidUb_Dq8P8eb12JIkcl"
+      },
+      {
+        "name": "Tập 9",
+        "driveId": "1K-PLM4XHLK3mvg1DqfypDu357HZxP3ES"
+      },
+      {
+        "name": "Tập 10",
+        "driveId": "1oW58TlQPojfqihyo0IymU9HgglpsWOeD"
+      },
+      {
+        "name": "Tập 11",
+        "driveId": "1wXtGVohSRIsnoSvb79PDm7qnMUAOXIqd"
+      },
+      {
+        "name": "Tập 12",
+        "driveId": "https://drive.google.com/file/d/18Dz5e_eHGpRKVrNBWr0Z0KgupwMwnGEN/view?usp=drive_link"
+      }
+    ],
+    "createdAt": "2026-01-05T09:40:43.437Z",
+    "updatedAt": "2026-01-05T09:40:43.437Z"
   }
 ]
